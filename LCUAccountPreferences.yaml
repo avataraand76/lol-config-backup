@@ -1,0 +1,277 @@
+STRAWBERRY_LOCAL_SETTINGS_V1:
+    data:
+        championId: 3153
+    schemaVersion: 0
+activity-center:
+    data:
+        lastPatchNotesViewed: "15.9"
+        tabsViewed: "{\"info-hub\":\"2025-04-20T02:11:33.987Z\",\"25-s1-2-ac-newchamp-mel\":true}"
+        thematicTimelineViewed: "15.9"
+    schemaVersion: 1
+career-stats-settings:
+    data:
+        initialVisited: true
+        welcomedSeason: 12
+    schemaVersion: 1
+champ-select:
+    data:
+        skins:
+            1: 1000
+            103: 103000
+            107: 107015
+            11: 11009
+            110: 110007
+            122: 122014
+            131: 131026
+            134: 134044
+            136: 136020
+            142: 142000
+            15: 15034
+            163: 163003
+            166: 166001
+            2: 2000
+            200: 200001
+            221: 221001
+            234: 234021
+            24: 24022
+            266: 266020
+            27: 27009
+            32: 32034
+            34: 34000
+            360: 360030
+            40: 40013
+            42: 42005
+            429: 429002
+            48: 48012
+            50: 50000
+            51: 51029
+            517: 517014
+            518: 518021
+            523: 523000
+            53: 53029
+            555: 555009
+            72: 72000
+            77: 77003
+            777: 777058
+            84: 84061
+            888: 888001
+            895: 895001
+            897: 897002
+            902: 902001
+            910: 910000
+        spells:
+            870:
+            - 4
+            - 12
+    schemaVersion: 1
+custom-spell-selections:
+    data:
+        custom-spell-selections:
+            spell1: 4
+            spell2: 11
+    schemaVersion: 0
+emotes:
+    data:
+        newEmotes:
+        - 3233
+        - 3148
+        - 3138
+        - 2130
+        - 2096
+        - 3142
+        - 3202
+        - 2114
+        - 3112
+        - 3172
+        - 3242
+        - 2180
+        - 2134
+    schemaVersion: 1
+event-hub:
+    data:
+        playerSettingsDataMap: null
+    schemaVersion: 1
+event-shop:
+    data:
+        lastSeenTokenBalance: 0
+        lastSeenTokenShopOffersVersion: 2783487561
+        lastTimeSeen: "2024-02-23T06:54:53.880Z"
+    schemaVersion: 1
+lol-challenges:
+    data:
+        introCollectionModalShown: true
+        introModalShown: true
+    schemaVersion: 1
+lol-champ-select:
+    data:
+        runeRecommenderTutorialTipSeen: true
+    schemaVersion: 0
+lol-chat:
+    data:
+        chatFilterDisabled: true
+        groupByProductShown: true
+    schemaVersion: 1
+lol-collection-champions:
+    data:
+        groupingDropdownKey: "allChampions"
+        lastVisitTime: 1757214568897
+        lcm-eat-seen: true
+        sortingDropdownKey: "firstLetterAscending"
+        unownedFilter: "none"
+    schemaVersion: 1
+lol-collection-chromas:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1736661714817
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 2
+lol-collection-summoner-icons:
+    data:
+        groupingDropdownKey: "all"
+        lastVisitTime: 1745115182985
+        sortingDropdownKey: "releaseDate"
+        unavailableFilter: true
+        unownedFilter: true
+    schemaVersion: 2
+lol-collection-wards:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1736661714815
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 3
+lol-customizer-titles:
+    data:
+        lastVisitTime: 1649342937259
+    schemaVersion: 1
+lol-general:
+    data:
+        top-nav-updates-eat-seen: true
+        uploadCrashReports: true
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 1
+lol-honor:
+    data:
+        recallReleaseNotified: true
+    schemaVersion: 1
+lol-info-hub:
+    data:
+        lastUpdateTime: "2025-08-27T18:16:26.000Z"
+        latestViewedVersion: "15.18"
+    schemaVersion: 1
+lol-leagues:
+    data:
+        last-split-end-notification: 18
+        season-memorial-modal: 13
+        season-start-takeover:
+            season: 20
+    schemaVersion: 1
+lol-loot:
+    data:
+        sanctumEATSeen: true
+        watchedFirstTimeNachoVideos:
+        - "/lol-game-data/assets/ASSETS/Nacho/skin-intro.LOL_Project_Nacho_Initial_Banner.webm"
+    schemaVersion: 1
+lol-notifications:
+    data:
+        disableCollectionsNotifications: false
+        rgmNotificationTimestamp: 1691598060945
+    schemaVersion: 1
+lol-npe-tutorial-path:
+    data:
+        hasSeenTutorialPath: false
+        hasSkippedTutorialPath: false
+        shouldSeeNewPlayerExperience: false
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-perks:
+    data:
+        playerFlashOnFPreference: false
+        shouldEditAfterSelection: true
+        shouldIncludeSummonerSpells: false
+    schemaVersion: 1
+lol-player-behavior:
+    data:
+        codeOfConductAccepted: true
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        autoJoin: true
+        inputMode: "voiceActivity"
+        muteOnConnect: false
+        pushToTalkKey: "[<Unbound>]"
+        showFirstExperienceInGame: true
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-profiles:
+    data:
+        ranked-reference-modal-login-seen-for-season: 17
+    schemaVersion: 0
+lol-skins-viewer:
+    data:
+        groupingDropdownKey: "tier"
+        lastVisitTime: 1748867620233
+        sortingDropdownKey: "tier"
+        unownedFilter: false
+    schemaVersion: 2
+lol-tft:
+    data:
+        TFTLootDepPreModalViewed: true
+        lastTFTBPSeen: "af0b373f-ff22-43ec-a2ed-69fd48fed2a7"
+        lastTftGameQueueId: 1092
+        lastTftSetNameSeen: "TFTSet14"
+        previouslySeenSeasons: "TFT6_Series,TFT6_Act2,TFT7_Series,TFT7_5_Series,TFT8_Series,TFT8_5_Series,1685642400000,1693332000000,1705006800000"
+        seenOfferIds:
+            storeOfferIds:
+            - "408ee02c-8dd0-42aa-b7df-999c24042fcd"
+            - "d691b281-418f-4a57-936d-35b963e78353"
+            tacticianOfferIds:
+            - "7d93e229-1f31-4f69-b9c4-774aeba67890"
+        tftEmeraldModalSeen: true
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        championSelectRunesTooltipSeenCount: 9
+    schemaVersion: 1
+missions-settings:
+    data:
+        selected_series: "all_missions"
+    schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2022-07-30T16:28:19.707Z"
+    schemaVersion: 1
+ranked-eos-notification-13-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-14-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-14-RANKED_SOLO_5x5-SECOND_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-17-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-18-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+yourshop:
+    data:
+        lastViewedTimestamp: "2025-09-07T02:51:30.689Z"
+    schemaVersion: 1

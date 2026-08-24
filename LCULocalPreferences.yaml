@@ -1,0 +1,40 @@
+lol-audio:
+    data:
+        masterVolume: 70
+        musicVolume: 100
+        sfxVolume: 100
+        voiceVolume: 50
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_493161"
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 50
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        abilityPreviewsDisabled: true
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        motionEffectsDisabled: false
+        potatoModeEnabled: false
+        unloadLeagueClientUx: "never"
+    schemaVersion: 3
+lol-vanguard:
+    data:
+        systemCheckLastSeen: 1729771552524
+        systemCheckPassed: true
+    schemaVersion: 1
+video:
+    data:
+        ZoomScale: 1.250000
+    schemaVersion: 1

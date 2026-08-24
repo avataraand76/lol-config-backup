@@ -1,0 +1,184 @@
+page-settings:
+    data:
+        pages: []
+        perShardPerkBooks:
+            pbe1:
+                currentPageId: 650072823
+                pages:
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 650072823
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1757214007787
+                    name: "test test test"
+                    order: 1
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png"
+                        id: 8360
+                        name: "Unsealed Spellbook"
+                        slotType: "kKeyStone"
+                        styleId: 8300
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
+                    primaryStyleId: 8300
+                    primaryStyleName: "Inspiration"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Resolve"
+                    selectedPerkIds:
+                    - 8360
+                    - 8321
+                    - 8352
+                    - 8347
+                    - 8473
+                    - 8242
+                    - 5008
+                    - 5008
+                    - 5011
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/p8300_s8400_k8360.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png"
+                        id: 8360
+                        name: "Unsealed Spellbook"
+                        slotType: "kKeyStone"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/CashBack/CashBack2.png"
+                        id: 8321
+                        name: "Cash Back"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/TimeWarpTonic/TimeWarpTonic.png"
+                        id: 8352
+                        name: "Time Warp Tonic"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png"
+                        id: 8347
+                        name: "Cosmic Insight"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/BonePlating/BonePlating.png"
+                        id: 8473
+                        name: "Bone Plating"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+                        id: 8242
+                        name: "Unflinching"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthScalingIcon.png"
+                        id: 5011
+                        name: "Health"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1677887562
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1748867757585
+                    name: "New Runes Page 1"
+                    order: 1
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.png"
+                        id: 8229
+                        name: "Arcane Comet"
+                        slotType: "kKeyStone"
+                        styleId: 8200
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    primaryStyleId: 8200
+                    primaryStyleName: "Sorcery"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/domination_icon_16.svg"
+                    secondaryStyleName: "Domination"
+                    selectedPerkIds:
+                    - 8229
+                    - 8226
+                    - 8210
+                    - 8237
+                    - 8126
+                    - 8106
+                    - 5008
+                    - 5008
+                    - 5001
+                    subStyleId: 8100
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/p8200_s8100_k8229.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.png"
+                        id: 8229
+                        name: "Arcane Comet"
+                        slotType: "kKeyStone"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/ManaflowBand/ManaflowBand.png"
+                        id: 8226
+                        name: "Manaflow Band"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Transcendence/Transcendence.png"
+                        id: 8210
+                        name: "Transcendence"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Scorch/Scorch.png"
+                        id: 8237
+                        name: "Scorch"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/CheapShot/CheapShot.png"
+                        id: 8126
+                        name: "Cheap Shot"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
+                        id: 8106
+                        name: "Ultimate Hunter"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "Health Scaling"
+                        slotType: "kStatMod"
+                        styleId: 8400
+        settings:
+            gameplayPatchVersionSeen: "14.1"
+            gameplayUpdatedPerksSeen: []
+            gridModeEnabled: true
+            showLongDescriptions: true
+            showPresetPages: false
+    schemaVersion: 5

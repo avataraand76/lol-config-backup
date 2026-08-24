@@ -1,0 +1,107 @@
+event-hub:
+    data:
+        animationsEnabled: true
+    schemaVersion: 1
+lol-april-fools:
+    data:
+        hasSeenAprilFoolsGameSelectionDialog: true
+    schemaVersion: 1
+lol-audio:
+    data:
+        ambienceMusicEnabled: true
+        championSelectionMusicEnabled: true
+        clientAmbienceMusicEnabled: true
+        masterSoundEnabled: true
+        masterVolume: 75
+        musicEnabled: true
+        musicVolume: 100
+        sfxVolume: 100
+        voiceVolume: 50
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_241581"
+        - "registration_open_tournament_241501"
+        - "registration_open_tournament_241502"
+        - "lock_in_open_tournament_241582_phase_241582"
+        - "lock_in_open_tournament_241502_phase_241502"
+        - "registration_open_tournament_241802"
+        - "lock_in_open_tournament_241702_phase_241702"
+        - "registration_open_tournament_241521"
+        - "registration_open_tournament_241801"
+        - "registration_open_tournament_241522"
+        - "registration_open_tournament_241541"
+        - "registration_open_tournament_241561"
+        - "registration_open_tournament_241842"
+        - "registration_open_tournament_241582"
+        - "registration_open_tournament_241601"
+        - "registration_open_tournament_241621"
+        - "registration_open_tournament_241622"
+        - "registration_open_tournament_241641"
+        - "lock_in_open_tournament_241641_phase_241641"
+        - "registration_open_tournament_241741"
+        - "lock_in_open_tournament_241721_phase_241721"
+        - "registration_open_tournament_241642"
+        - "registration_open_tournament_241661"
+        - "lock_in_open_tournament_241661_phase_241661"
+        - "registration_open_tournament_241662"
+        - "registration_open_tournament_241861"
+        - "registration_open_tournament_241681"
+        - "lock_in_open_tournament_241681_phase_241681"
+        - "registration_open_tournament_241862"
+        - "lock_in_open_tournament_241802_phase_241802"
+        - "registration_open_tournament_241682"
+        - "registration_open_tournament_241701"
+        - "lock_in_open_tournament_241701_phase_241701"
+        - "registration_open_tournament_241761"
+        - "registration_open_tournament_241702"
+        - "registration_open_tournament_241721"
+        - "registration_open_tournament_241742"
+        - "lock_in_open_tournament_241862_phase_241862"
+        - "registration_open_tournament_241822"
+        - "lock_in_open_tournament_241761_phase_241761"
+        - "registration_open_tournament_241762"
+        - "lock_in_open_tournament_241762_phase_241762"
+        - "registration_open_tournament_241781"
+        - "registration_open_tournament_241782"
+        - "lock_in_open_tournament_241782_phase_241782"
+        - "lock_in_open_tournament_241841_phase_241841"
+        - "lock_in_open_tournament_241801_phase_241801"
+        - "registration_open_tournament_241821"
+        - "registration_open_tournament_241841"
+    schemaVersion: 1
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "{68230d42-c7bd-4eca-bb40-a2b2ad140b6c}"
+        inputVolume: 50
+        vadAuto: true
+        vadSensitivity: 50
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+        highlights-folder-path: "D:\\Riot Games\\Replays\\Highlights"
+        replays-folder-path: "D:\\Riot Games\\Replays"
+    schemaVersion: 1
+lol-skins-viewer:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJyc28tcHJvZC0yMDI0LTExIiwidHlwIjoiaWRfdG9rZW4rand0IiwiYWxnIjoiUlMyNTYifQ.eyJhdF9oYXNoIjoiZUpDelk3dlV5LTJDU0dlRll0TnlJdyIsInN1YiI6IjczNjI0NGVhLTYwYjQtNTA4MC04NzA2LWI5NDg3ZGExNjVkNSIsImNvdW50cnkiOiJ2bm0iLCJwbGF5ZXJfcGxvY2FsZSI6InZuLVZOIiwiYW1yIjpbInBhc3N3b3JkIiwibWZhIiwiY29va2llIl0sImlzcyI6Imh0dHBzOi8vYXV0aC5yaW90Z2FtZXMuY29tIiwibG9sIjpbeyJjdWlkIjozMTQ3NzUxNDY5NjIyNDY0LCJjcGlkIjoiVk4yIiwidWlkIjoyMzI2NDQ5MzksInVuYW1lIjoiYXZhdGFyYWFuZDc2IiwicHRyaWQiOm51bGwsInBpZCI6Ik5BMSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJub25jZSI6Im5KMjN1QldrdWtLdjl4MXRKa0FocVEiLCJhY2NvdW50X3ZlcmlmaWVkIjp0cnVlLCJhdWQiOiJsb2wiLCJhY3IiOiIwIiwibG9sX3JlZ2lvbiI6W3siYWN0aXZlIjpmYWxzZSwiY3BpZCI6Ik5BMSIsImN1aWQiOjIzMjY0NDkzOSwibHAiOmZhbHNlLCJwaWQiOiJOQTEiLCJ1aWQiOjIzMjY0NDkzOX0seyJhY3RpdmUiOnRydWUsImNwaWQiOiJWTjIiLCJjdWlkIjozMTQ3NzUxNDY5NjIyNDY0LCJscCI6ZmFsc2UsInBpZCI6Ik5BMSIsInVpZCI6MjMyNjQ0OTM5fV0sInBsYXllcl9sb2NhbGUiOiJ2bi1WTiIsImV4cCI6MTc4NjM2Mjg2MywiaWF0IjoxNzg2Mjc2NDYzLCJhY2N0Ijp7ImdhbWVfbmFtZSI6Ik3DrFbhurFuVGjhuq9uWMOhWMOtdSIsInRhZ19saW5lIjoiYXZhIn0sImp0aSI6IlFmVmhGRlF5cXpjIiwibG9naW5fY291bnRyeSI6InZubSJ9.VeQy60drmpvfYstT6ySspQ5A23YoI4L8kqRBglMGD4gZjGiSYMw22p7eI5H7y8ZNOjp8ZImuSxb8cwH6cy_zEDcYlmIPkdl5WS6zV4LYDBS4DA07c2YoNmd8Am-3knI1S81Rq4in7_j9wuIlkwVQ6noFbtnKqYYyF7nTnPawy8wszCv4VryhmmMdBao0yO4Jd2S0UWW8qVqZr_3qxsxnMPkdME2ul9xm_7Y869UXbPtbfdShAI0y-8WkwioVjV0tKkI_vYViRA8n8bye9zz5G5_uyq9U_wnzvh5doLY45dyWafpWtaOREAfieXzr60ZhsIW7C7Mfgjz2r0yUOfNTww"
+        lastVisitTime: 1786282544781
+        visitedSkinList: []
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        abilityPreviewsDisabled: true
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+    schemaVersion: 3
+video:
+    data:
+        ZoomScale: 1.250000
+    schemaVersion: 1

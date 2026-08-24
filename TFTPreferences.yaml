@@ -1,0 +1,57 @@
+TFTBattlepassInactiveDateViewed: "2026-08-11T06:59:00.000Z"
+TFTBattlepassVersionViewed: 3333040
+TFTDaysPlayed: 3
+TFTEventVersionViewed: "TFT_ChonccLLa_Series"
+TFTLabModalViewed_CHONCC_TREASURE: true
+TFTLabModalViewed_FIVE_YEAR_ANNIVERSARY_TFT: true
+TFTLabModalViewed_RANKED_TFT_TURBO: true
+TFTLabModalViewed_SET_REVIVAL_TFT: true
+TFTLastDayPlayed: "07-14-2026"
+TFTLastSetPlayed: "TFTSet17"
+TFTLastSetPrompted: "TFTSet16"
+TFTSetAnnouncementCoreNameViewed: "TFTSet12_PVEMODE"
+TFTTroves2Viewed: 1
+TFTTutorialViewed: true
+VersionsSeen:
+    data:
+        6YA: 1749686400000
+        7YA: 1781109900000
+        CT16: 1784023200000
+        Promethium: 1758733200000
+        Set10R: 1747265400000
+        Set4R: 1769103000000
+        Set7R: 1761152400000
+        eventHub: 1727283600000
+        rotational-shop-evergreen: 1
+        rotational-shop-history: 1
+        rotational-shop-mythic: 1
+        rotational-shop-nav: 1
+        rotational-shop-seasonal: 1
+        skill-tree-leaderboard: 1
+        skillTreeInfoSeen: 1
+        trovesV2: 1
+    schemaVersion: 0
+braze_tft_first_game_end: true
+cosmetics-settings:
+    data:
+        favorites:
+            companions: []
+            tft_damage_skins: []
+            tft_map_skins: []
+    schemaVersion: 1
+eventHubFirstTime: 1769103000
+eventHubInfo: 1769103000
+lastUnlockCount: 30
+tft-st16-embed-2025:
+    ambientAudioDisabled: "false"
+    hideCodeCopiedModal: "false"
+    motionDisabled: "true"
+    seenCelebrationModal: "false"
+    seenDiscovered: "{\"b26d386aeee6cb076f1f09289878ce23\":{\"c\":true},\"72b6cc7aa280d7c65bdaa42f1d8da84d\":{\"c\":true},\"ea2c65d2c783e6439c891e8821811d1a\":{\"c\":true},\"8220e37e524b6731549b295e70c4bcbf\":{\"c\":true},\"ccdaacb66b63b229a8a2ec374bfe7662\":{\"c\":true},\"8f47dba3d55ab1c5f70560c054ca1517\":{\"c\":true},\"80b70e131ff655c1f2a4cffaece448a1\":{\"c\":true},\"9f995e02a591c253bf282e1a36a08ab4\":{\"c\":true},\"aae24807e52d8ee10b6d3eec7ca76caf\":{\"c\":true},\"325bb6d7f8bcfba1cd20b6095097c2d8\":{\"c\":true},\"bf8c874cde37270add9e1bd1741c9a73\":{\"c\":true},\"f7214cb0bd99186b6adcc2a94f4e3dc7\":{\"c\":true},\"6be69e120bc353e03365cdb94332f76c\":{\"c\":true},\"c6c11ea1ea0a5f4bc558159d05142a90\":{\"c\":true},\"30dd77a8491ac45b09c733fc2e616639\":{\"d\":true,\"c\":true},\"8df1e44e8a310072012709930bee7c03\":{\"c\":true},\"71ac65eca7ac3e626675003d02a2641b\":{\"c\":true},\"2a513aedaa116774f8af6953971efacd\":{\"c\":true},\"e6e0940820cff778989d706d334c485f\":{\"c\":true},\"800086e5fa495402fcb92a6fa0b1cbc9\":{\"c\":true},\"45d4592d31e45e5a055ae80ce76ad827\":{\"c\":true},\"268cd8b9c8ce2e01dc7bd1ee300cbc9b\":{\"c\":true,\"d\":true},\"5f246f53ee2bc549c94ebb2732ed5b42\":{\"c\":true},\"81c49d0bd5b20a420c9be551d552ca70\":{\"c\":true},\"10fb26f11c4f40a4a56c0da3ba6ab234\":{\"c\":true},\"c7dd9409a798a78016a3c3a9059ffe11\":{\"c\":true},\"2d6bf93e2f46a89737da7e325056c188\":{\"c\":true},\"cddefa567e00a0ce3f2af28790bef048\":{\"c\":true},\"b0fa554060b496c84d0083954017a2a4\":{\"c\":true},\"20433d3002a2220fbc2d485beb97178d\":{\"c\":true}}"
+    seenDiscoveredMilestone: "30"
+    seenIntro: "false"
+    seenTopFour: "{\"80b70e131ff655c1f2a4cffaece448a1\":{\"c\":true},\"ccdaacb66b63b229a8a2ec374bfe7662\":{\"c\":true},\"9f995e02a591c253bf282e1a36a08ab4\":{\"c\":true},\"aae24807e52d8ee10b6d3eec7ca76caf\":{\"c\":true},\"325bb6d7f8bcfba1cd20b6095097c2d8\":{\"c\":true},\"bf8c874cde37270add9e1bd1741c9a73\":{\"c\":true},\"30dd77a8491ac45b09c733fc2e616639\":{\"c\":true,\"d\":true},\"71ac65eca7ac3e626675003d02a2641b\":{\"c\":true},\"800086e5fa495402fcb92a6fa0b1cbc9\":{\"c\":true},\"8220e37e524b6731549b295e70c4bcbf\":{\"c\":true},\"5f246f53ee2bc549c94ebb2732ed5b42\":{\"c\":true},\"45d4592d31e45e5a055ae80ce76ad827\":{\"c\":true},\"8df1e44e8a310072012709930bee7c03\":{\"c\":true},\"81c49d0bd5b20a420c9be551d552ca70\":{\"c\":true,\"d\":true},\"10fb26f11c4f40a4a56c0da3ba6ab234\":{\"c\":true},\"ea2c65d2c783e6439c891e8821811d1a\":{\"c\":true},\"2d6bf93e2f46a89737da7e325056c188\":{\"c\":true},\"268cd8b9c8ce2e01dc7bd1ee300cbc9b\":{\"c\":true},\"cddefa567e00a0ce3f2af28790bef048\":{\"c\":true},\"72b6cc7aa280d7c65bdaa42f1d8da84d\":{\"c\":true}}"
+    seenTopFourMilestone: "0"
+    seenTpoWinner: "true"
+tft_first_game: true
+tft_last_login_date: 20260717

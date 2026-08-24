@@ -1,0 +1,3358 @@
+{
+    "description": "The settings in this file are persisted server-side. This file is generated automatically. Editing it is not recommended. Modify SettingsToPersist.json to specify which settings are persisted.",
+    "files": [
+        {
+            "name": "Game.cfg",
+            "sections": [
+                {
+                    "name": "Accessibility",
+                    "settings": [
+                        {
+                            "name": "ColorBrightness",
+                            "value": "0.7000"
+                        },
+                        {
+                            "name": "ColorContrast",
+                            "value": "0.7000"
+                        },
+                        {
+                            "name": "ColorGamma",
+                            "value": "0.7000"
+                        },
+                        {
+                            "name": "ColorLevel",
+                            "value": "0.7000"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chat",
+                    "settings": [
+                        {
+                            "name": "ChatX",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ChatY",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnableChatFilter",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.0068"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.5667"
+                        },
+                        {
+                            "name": "ReplayNativeOffsetX",
+                            "value": "0.0589"
+                        },
+                        {
+                            "name": "ReplayNativeOffsetY",
+                            "value": "0.5083"
+                        },
+                        {
+                            "name": "Transparency",
+                            "value": "0.0000"
+                        }
+                    ]
+                },
+                {
+                    "name": "ColorPalette",
+                    "settings": [
+                        {
+                            "name": "ColorPalette",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "FloatingText",
+                    "settings": [
+                        {
+                            "name": "Absorbed_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Countdown_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Damage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Debug_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Disable_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Dodge_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyMagicalDamageCritical_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyMagicalDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyPhysicalDamageCritical_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyPhysicalDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyTrueDamageCritical_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyTrueDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Experience_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Gold_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Heal_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Invulnerable_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Level_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MagicalDamageCritical_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MagicalDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ManaDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ManaHeal_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "OMW_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PhysicalDamageCritical_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PhysicalDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PracticeToolDPS_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PracticeToolLastHit_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PracticeToolTotal_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "QuestComplete_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "QuestReceived_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScoreDarkStar_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScoreProject0_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScoreProject1_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Score_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShieldBonusDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Special_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "TrueDamageCritical_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "TrueDamage_Enabled",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "General",
+                    "settings": [
+                        {
+                            "name": "AutoAcquireTarget",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CameraMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CameraModeWASD",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CameraOffsetScale",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "CameraZoomOnMouseScroll",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CfgVersion",
+                            "value": "16.16.804.9184"
+                        },
+                        {
+                            "name": "CursorOverride",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CursorScale",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "DashHandlingType",
+                            "value": "0"
+                        },
+                        {
+                            "name": "DynamicCameraSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "EnableAudio",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnableLeftMouseButtonAttackMove",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnableScoutAheadPopOut",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnableScreenShake",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnableTargetedAttackMove",
+                            "value": "1"
+                        },
+                        {
+                            "name": "FlashHandlingType",
+                            "value": "0"
+                        },
+                        {
+                            "name": "GameMouseSpeed",
+                            "value": "10"
+                        },
+                        {
+                            "name": "OSXMouseAcceleration",
+                            "value": "1"
+                        },
+                        {
+                            "name": "OffsetEdgepanSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "PredictMovement",
+                            "value": "0"
+                        },
+                        {
+                            "name": "RecommendJunglePaths",
+                            "value": "1"
+                        },
+                        {
+                            "name": "RelativeTeamColors",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowTurretRangeIndicators",
+                            "value": "1"
+                        },
+                        {
+                            "name": "SnapCameraOnRespawn",
+                            "value": "0"
+                        },
+                        {
+                            "name": "TargetChampionsOnlyAsToggle",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ThemeMusic",
+                            "value": "0"
+                        },
+                        {
+                            "name": "WASDMovementRotation",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "HUD",
+                    "settings": [
+                        {
+                            "name": "AutoDisplayTarget",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CameraLockMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ChatChannelVisibility",
+                            "value": "2"
+                        },
+                        {
+                            "name": "ChatScale",
+                            "value": "100"
+                        },
+                        {
+                            "name": "DeathRecapNativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "DeathRecapNativeOffsetY",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "DeathRecapScale",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "DisableHudSpellClick",
+                            "value": "0"
+                        },
+                        {
+                            "name": "DisableMouseCaptureDebugger",
+                            "value": "0"
+                        },
+                        {
+                            "name": "DrawHealthBars",
+                            "value": "1"
+                        },
+                        {
+                            "name": "DynamicCameraLockMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EmotePopupUIDisplayMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EmoteSize",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnableItemComponentPurchasing",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnableLineMissileVis",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EternalsMilestoneDisplayMode",
+                            "value": "1"
+                        },
+                        {
+                            "name": "FlashScreenWhenDamaged",
+                            "value": "1"
+                        },
+                        {
+                            "name": "FlashScreenWhenStunned",
+                            "value": "1"
+                        },
+                        {
+                            "name": "FlipMiniMap",
+                            "value": "0"
+                        },
+                        {
+                            "name": "GlobalScale",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "GlobalScaleReplay",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "HideEnemySummonerEmotes",
+                            "value": "0"
+                        },
+                        {
+                            "name": "HidePlayerNames",
+                            "value": "0"
+                        },
+                        {
+                            "name": "HideReciprocityFist",
+                            "value": "0"
+                        },
+                        {
+                            "name": "InstantCastUseCharacterDirection",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ItemShopItemDisplayMode",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ItemShopPrevResizeHeight",
+                            "value": "1080"
+                        },
+                        {
+                            "name": "ItemShopPrevResizeWidth",
+                            "value": "1920"
+                        },
+                        {
+                            "name": "ItemShopPrevX",
+                            "value": "270"
+                        },
+                        {
+                            "name": "ItemShopPrevY",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ItemShopResizeHeight",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ItemShopResizeWidth",
+                            "value": "260"
+                        },
+                        {
+                            "name": "ItemShopStartPane",
+                            "value": "1"
+                        },
+                        {
+                            "name": "KeyboardScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MapScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MiddleClickDragScrollEnabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MinimapEnableAllTimers",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MinimapMoveSelf",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MinimapScale",
+                            "value": "2.5000"
+                        },
+                        {
+                            "name": "MinimapScaleSpectator",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MirroredScoreboard",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Movement Mode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NameTagDisplay",
+                            "value": "1"
+                        },
+                        {
+                            "name": "NumericCooldownFormat",
+                            "value": "2"
+                        },
+                        {
+                            "name": "ObjectTooltips",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ObjectiveVoteScale",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "PracticeToolScale",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "ReplayMiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ReplayScrollSmoothingEnabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScrollSmoothingEnabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShopScale",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "ShowAllChannelChat",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAllChannelChatSpectator",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAlliedChat",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAttackRadius",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAutoAttackRangeIndicatorLine",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowChampionIndicator",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowFPSAndLatency",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowHealthBarShake",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowLastHitAssist",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowNeutralCamps",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowOffScreenPointsOfInterest",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowPlayerPerks",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowPlayerStats",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellCosts",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellRecommendation",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellRecommendations",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowStatsPanel_StatStones",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowSummonerNames",
+                            "value": "2"
+                        },
+                        {
+                            "name": "ShowSummonerNamesInScoreboard",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowTeamFramesOnLeft",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowTimestamps",
+                            "value": "1"
+                        },
+                        {
+                            "name": "SmartCastOnKeyRelease",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "ItemShop",
+                    "settings": [
+                        {
+                            "name": "BootsPanelPinned",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ConsumablesPanelPinned",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CurrentTab",
+                            "value": "1"
+                        },
+                        {
+                            "name": "InventoryPanelPinned",
+                            "value": "1"
+                        },
+                        {
+                            "name": "InvertDisplayOrder",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.2200"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.1200"
+                        }
+                    ]
+                },
+                {
+                    "name": "LossOfControl",
+                    "settings": [
+                        {
+                            "name": "LossOfControlEnabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSlows",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performance",
+                    "settings": [
+                        {
+                            "name": "EnableHUDAnimations",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Replay",
+                    "settings": [
+                        {
+                            "name": "MinimapBackgroundOpacity",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MinimapMapOpacity",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MinimapNativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "MinimapNativeOffsetY",
+                            "value": "0.0000"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTChat",
+                    "settings": [
+                        {
+                            "name": "ChatX",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ChatY",
+                            "value": "276"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTHUD",
+                    "settings": [
+                        {
+                            "name": "EnableChat",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Voice",
+                    "settings": [
+                        {
+                            "name": "ShowVoiceChatHalos",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowVoicePanelWithScoreboard",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Volume",
+                    "settings": [
+                        {
+                            "name": "AmbienceMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "AmbienceVolume",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "AnnouncerMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "AnnouncerVolume",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MasterMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MasterVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MusicMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MusicVolume",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "NotificationsMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NotificationsVolume",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "PingsMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "PingsVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "SfxMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SfxVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "VoiceMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "VoiceVolume",
+                            "value": "1.0000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Input.ini",
+            "sections": [
+                {
+                    "name": "GameEvents",
+                    "settings": [
+                        {
+                            "name": "evntPlayerPing",
+                            "value": "[Alt][Button 1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evntPlayerPingCursor",
+                            "value": "[g],[<Unbound>]"
+                        },
+                        {
+                            "name": "evntPlayerPingCursorDanger",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evntPlayerPingDanger",
+                            "value": "[Shift][Button 1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCameraLockToggle",
+                            "value": "[y],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCameraSnap",
+                            "value": "[Space],[Shift][Space]"
+                        },
+                        {
+                            "name": "evtCastAvatarSpell1",
+                            "value": "[d]"
+                        },
+                        {
+                            "name": "evtCastAvatarSpell2",
+                            "value": "[f]"
+                        },
+                        {
+                            "name": "evtCastRoleBound",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[q]"
+                        },
+                        {
+                            "name": "evtCastSpell2",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[e]"
+                        },
+                        {
+                            "name": "evtCastSpell4",
+                            "value": "[r]"
+                        },
+                        {
+                            "name": "evtChampMasteryDisplay",
+                            "value": "[<Unbound>],[F6]"
+                        },
+                        {
+                            "name": "evtChampionOnly",
+                            "value": "[x],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtChampionSpecificInteractionButton1Click",
+                            "value": "[Shift][F1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtChampionSpecificInteractionButton2Click",
+                            "value": "[Shift][F2],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtChampionSpecificInteractionButton3Click",
+                            "value": "[Shift][F3],[L Win]"
+                        },
+                        {
+                            "name": "evtChampionSpecificInteractionButton4Click",
+                            "value": "[Shift][F4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtChampionSpecificInteractionButton5Click",
+                            "value": "[Shift][F5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtChampionSpecificInteractionButton6Click",
+                            "value": "[Shift][F6],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtChatHistory",
+                            "value": "[z],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtDecreaseReplaySpeed",
+                            "value": "[-],[Num-]"
+                        },
+                        {
+                            "name": "evtDefaultReplaySpeed",
+                            "value": "[0],[Num0]"
+                        },
+                        {
+                            "name": "evtDisableDirectedCamera",
+                            "value": "[s],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtDragScrollLock",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtDrawHud",
+                            "value": "[App Menu],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEmoteDance",
+                            "value": "[Ctrl][3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEmoteJoke",
+                            "value": "[Ctrl][1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEmoteLaugh",
+                            "value": "[Ctrl][4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEmoteTaunt",
+                            "value": "[Ctrl][2],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEmoteToggle",
+                            "value": "[Ctrl][5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEnableDirectedCamera",
+                            "value": "[d],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEnableFPSCamera",
+                            "value": "[/],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSBackwards",
+                            "value": "[Num5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSForward",
+                            "value": "[Num8],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSPitchDown",
+                            "value": "[Num1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSPitchUp",
+                            "value": "[Num3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSStrafeLeft",
+                            "value": "[Num4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSStrafeRight",
+                            "value": "[Num6],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSYawLeft",
+                            "value": "[Num9],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtFPSYawRight",
+                            "value": "[Num7],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtIncreaseReplaySpeed",
+                            "value": "[=],[Num+]"
+                        },
+                        {
+                            "name": "evtJumpBack",
+                            "value": "[Back],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtJumpForward",
+                            "value": "[j],[Backslash]"
+                        },
+                        {
+                            "name": "evtLevelSpell1",
+                            "value": "[Ctrl][q],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtLevelSpell2",
+                            "value": "[Ctrl][w],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtLevelSpell3",
+                            "value": "[Ctrl][e],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtLevelSpell4",
+                            "value": "[Ctrl][r],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtNormalCastAvatarSpell1",
+                            "value": "[Shift][d]"
+                        },
+                        {
+                            "name": "evtNormalCastAvatarSpell2",
+                            "value": "[Shift][f]"
+                        },
+                        {
+                            "name": "evtNormalCastItem1",
+                            "value": "[Shift][Button 4]"
+                        },
+                        {
+                            "name": "evtNormalCastItem2",
+                            "value": "[Shift][2]"
+                        },
+                        {
+                            "name": "evtNormalCastItem3",
+                            "value": "[Shift][3]"
+                        },
+                        {
+                            "name": "evtNormalCastItem4",
+                            "value": "[Shift][1]"
+                        },
+                        {
+                            "name": "evtNormalCastItem5",
+                            "value": "[Shift][5]"
+                        },
+                        {
+                            "name": "evtNormalCastItem6",
+                            "value": "[Shift][6]"
+                        },
+                        {
+                            "name": "evtNormalCastRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtNormalCastSpell1",
+                            "value": "[Shift][q]"
+                        },
+                        {
+                            "name": "evtNormalCastSpell2",
+                            "value": "[Shift][w]"
+                        },
+                        {
+                            "name": "evtNormalCastSpell3",
+                            "value": "[Shift][e]"
+                        },
+                        {
+                            "name": "evtNormalCastSpell4",
+                            "value": "[Shift][r]"
+                        },
+                        {
+                            "name": "evtNormalCastVisionItem",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtOnUIMouse4Pan",
+                            "value": "[Button 5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtOpenShop",
+                            "value": "[p],[`]"
+                        },
+                        {
+                            "name": "evtPetMoveClick",
+                            "value": "[Alt][Button 2],[Ctrl][Button 2]"
+                        },
+                        {
+                            "name": "evtPlayerAttackMove",
+                            "value": "[CapsLock],[Shift][a]"
+                        },
+                        {
+                            "name": "evtPlayerAttackMoveClick",
+                            "value": "[a],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerAttackOnlyClick",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerCursorPingAreaIsWarded",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerHoldPosition",
+                            "value": "[j],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerMoveClick",
+                            "value": "[Button 2],[Shift][Button 2]"
+                        },
+                        {
+                            "name": "evtPlayerPingAllIn",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingAreaIsWarded",
+                            "value": "[h],[Ctrl][Button 1]"
+                        },
+                        {
+                            "name": "evtPlayerPingBait",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingComeHere",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingHold",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingMIA",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingOMW",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingPush",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingRadialDanger",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingVisionCleared",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerPingVisionNeeded",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPlayerStopPosition",
+                            "value": "[s],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolIncGameClock",
+                            "value": "[Ctrl][Shift][o],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolIncGold",
+                            "value": "[Shift][t],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolIncLevel",
+                            "value": "[Shift][y],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolLockLevel",
+                            "value": "[Shift][u],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolRemoveTargetDummy",
+                            "value": "[Shift][m],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetCooldown",
+                            "value": "[Shift][x],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetGame",
+                            "value": "[Ctrl][Shift][p],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetHP",
+                            "value": "[Shift][z],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetPAR",
+                            "value": "[Shift][c],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolRevive",
+                            "value": "[Shift][v],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnAlliedTargetDummy",
+                            "value": "[Shift][n],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonAir",
+                            "value": "[Shift][j],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonEarth",
+                            "value": "[Shift][k],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonElder",
+                            "value": "[Shift]['],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonFire",
+                            "value": "[Shift][l],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonOcean",
+                            "value": "[Shift][Semicolon],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnEnemyTargetDummy",
+                            "value": "[Shift][b],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnJungle",
+                            "value": "[Ctrl][Shift][j],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnJunglePlants",
+                            "value": "[Alt][Shift][j],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolTeleport",
+                            "value": "[Shift][s],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolToggleMinions",
+                            "value": "[Ctrl][Shift][i],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolToggleTurrets",
+                            "value": "[Shift][g],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolTurretInv",
+                            "value": "[Shift][h],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPushToTalk",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPushToTalkTeam",
+                            "value": "[0]"
+                        },
+                        {
+                            "name": "evtRadialEmoteInstantOpen",
+                            "value": "[t],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmoteOpen",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot0",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot1",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot2",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot3",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot4",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot5",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot6",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot7",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtRadialEmotePlaySlot8",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtReciprocityMyBadTrigger",
+                            "value": "[i],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtReciprocityTrigger",
+                            "value": "[u],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtScrollDown",
+                            "value": "[Down Arrow],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtScrollLeft",
+                            "value": "[Left Arrow],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtScrollRight",
+                            "value": "[Right Arrow],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtScrollUp",
+                            "value": "[Up Arrow],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectAlly1",
+                            "value": "[F1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectAlly2",
+                            "value": "[F2],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectAlly3",
+                            "value": "[F3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectAlly4",
+                            "value": "[F4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectAlly5",
+                            "value": "[F5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectChaosPlayer1",
+                            "value": "[1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectChaosPlayer2",
+                            "value": "[2],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectChaosPlayer3",
+                            "value": "[3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectChaosPlayer4",
+                            "value": "[4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectChaosPlayer5",
+                            "value": "[5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectOrderPlayer1",
+                            "value": "[q],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectOrderPlayer2",
+                            "value": "[w],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectOrderPlayer3",
+                            "value": "[e],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectOrderPlayer4",
+                            "value": "[r],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectOrderPlayer5",
+                            "value": "[t],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelectSelf",
+                            "value": "[Space],[Shift][Space]"
+                        },
+                        {
+                            "name": "evtSelfCastAvatarSpell1",
+                            "value": "[Alt][d],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastAvatarSpell2",
+                            "value": "[Alt][f],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastItem1",
+                            "value": "[Alt][Button 4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastItem2",
+                            "value": "[Alt][2],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastItem3",
+                            "value": "[Alt][3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastItem4",
+                            "value": "[Alt][1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastItem5",
+                            "value": "[Alt][5],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastItem6",
+                            "value": "[Alt][6],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastRoleBound",
+                            "value": "[Alt][v],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastSpell1",
+                            "value": "[Alt][q],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastSpell2",
+                            "value": "[Alt][w],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastSpell3",
+                            "value": "[Alt][e],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastSpell4",
+                            "value": "[Alt][r],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSelfCastVisionItem",
+                            "value": "[Alt][4],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeam1",
+                            "value": "[F1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeam2",
+                            "value": "[F2],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSetVisibilityTeamNone",
+                            "value": "[F3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtShowCharacterMenu",
+                            "value": "[c],[Space]"
+                        },
+                        {
+                            "name": "evtShowCharacterMenuSpectator",
+                            "value": "[c],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtShowHealthBars",
+                            "value": "[Ctrl][App Menu],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtShowHideTeamfightUI",
+                            "value": "[a],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtShowScoreBoard",
+                            "value": "[o],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtShowSummonerNames",
+                            "value": "[Ctrl][-],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtShowVoicePanel",
+                            "value": "[m],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastRoleBound",
+                            "value": "[Shift][v]"
+                        },
+                        {
+                            "name": "evtSmartCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastVisionItem",
+                            "value": "[Shift][4]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorRoleBound",
+                            "value": "[v]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorVisionItem",
+                            "value": "[4]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastAvatarSpell1",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastAvatarSpell2",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastItem1",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastItem2",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastItem3",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastItem4",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastItem5",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastItem6",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastRoleBound",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastSpell1",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastSpell2",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastSpell3",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastSpell4",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastVisionItem",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorVisionItem",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSysMenu",
+                            "value": "[Esc],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTCycleCombatRecapMode",
+                            "value": "[Ctrl][`],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraClockwise",
+                            "value": "[]],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraCounterClockwise",
+                            "value": "[[],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToCarousel",
+                            "value": "[Tab],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard1",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard2",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard3",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard4",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard5",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard6",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard7",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboard8",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboardNext",
+                            "value": "[3],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToScoreboardPrev",
+                            "value": "[1],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTMoveCameraToSelf",
+                            "value": "[Space],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTPlaceUnit",
+                            "value": "[w],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTPurchaseXP",
+                            "value": "[f],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTRerollShop",
+                            "value": "[d],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTSellUnit",
+                            "value": "[e],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTToggleCombatRecap",
+                            "value": "[`],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtTFTToggleCombatRecapOpponent",
+                            "value": "[Shift][`],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleExtendedZoom",
+                            "value": "[Ctrl][z]"
+                        },
+                        {
+                            "name": "evtToggleFogOfWar",
+                            "value": "[f],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleMinimapFrame",
+                            "value": "[Ctrl][c],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleMinionHealthBars",
+                            "value": "[Ctrl][Alt][App Menu],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleObserverVisibility",
+                            "value": "[v],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleOptionsMenuButton",
+                            "value": "[Ctrl][x],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleReplayNeutralTimers",
+                            "value": "[n],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleReplayPause",
+                            "value": "[p],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleReplayTimeControls",
+                            "value": "[u],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleReplayUI",
+                            "value": "[h],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleReplayVisibilityPanel",
+                            "value": "[i],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleScoreboardGoldDisplay",
+                            "value": "[x],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleVC",
+                            "value": "[Ctrl] [v],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtUseItem1",
+                            "value": "[Button 4]"
+                        },
+                        {
+                            "name": "evtUseItem2",
+                            "value": "[2]"
+                        },
+                        {
+                            "name": "evtUseItem3",
+                            "value": "[3]"
+                        },
+                        {
+                            "name": "evtUseItem4",
+                            "value": "[1]"
+                        },
+                        {
+                            "name": "evtUseItem5",
+                            "value": "[5]"
+                        },
+                        {
+                            "name": "evtUseItem6",
+                            "value": "[6]"
+                        },
+                        {
+                            "name": "evtUseItem7",
+                            "value": "[b],[Ctrl][b]"
+                        },
+                        {
+                            "name": "evtUseVisionItem",
+                            "value": "[Button 3]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Amumu",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Blitzcrank",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Gangplank",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[e]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Illaoi",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[e]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Jhin",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell2",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell4",
+                            "value": "[r]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Nautilus",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Orianna",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Thresh",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell2",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[e]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Veigar",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[e]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Zed",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Zeri",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell2",
+                            "value": "[w]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Ziggs",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtCastSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell2",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[e]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell4",
+                            "value": "[r]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Zilean",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell1",
+                            "value": "[q]"
+                        }
+                    ]
+                },
+                {
+                    "name": "GameEvents.Zoe",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorSpell3",
+                            "value": "[e]"
+                        }
+                    ]
+                },
+                {
+                    "name": "HUDEvents",
+                    "settings": [
+                        {
+                            "name": "evntHudMoveableSelect",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "evtHoldShowScoreBoard",
+                            "value": "[Tab],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtOnUIMouse1",
+                            "value": "[Button 1],[Ctrl][Button 1]"
+                        },
+                        {
+                            "name": "evtToggleDeathRecapShowcase",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleFPSAndLatency",
+                            "value": "[Ctrl][f],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleMouseClip",
+                            "value": "[<Unbound>],[F9]"
+                        },
+                        {
+                            "name": "evtTogglePlayerStats",
+                            "value": "[Ctrl][c],[<Unbound>]"
+                        }
+                    ]
+                },
+                {
+                    "name": "Quickbinds",
+                    "settings": [
+                        {
+                            "name": "CastAbilitysmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastAvatarSpell1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastAvatarSpell2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastRoleBoundsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastSpell1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastSpell2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastSpell3smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastSpell4smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CastUltimatesmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MoveDownsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MoveLeftsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MoveRightsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MoveUpsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ToggleMouseAimsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseItem1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseItem2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseItem3smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseItem4smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseItem5smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseItem6smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "UseVisionItemsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastAvatarSpell1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastAvatarSpell2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastRoleBoundsmart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastSpell1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastSpell2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastSpell3smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtCastSpell4smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem3smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem4smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem5smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem6smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseVisionItemsmart",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Quickbinds.Vladimir",
+                    "settings": [
+                        {
+                            "name": "evtCastSpell3smart",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "ShopEvents",
+                    "settings": [
+                        {
+                            "name": "evtShopFocusSearch",
+                            "value": "[Ctrl][l],[Ctrl][Return]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory1",
+                            "value": "[Button 4]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory2",
+                            "value": "[2]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory3",
+                            "value": "[3]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory4",
+                            "value": "[1]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory5",
+                            "value": "[5]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory6",
+                            "value": "[6]"
+                        },
+                        {
+                            "name": "evtShopSelectInventory7",
+                            "value": "[4]"
+                        },
+                        {
+                            "name": "evtShopSwitchTabs",
+                            "value": "[Ctrl][Tab],[<Unbound>]"
+                        }
+                    ]
+                },
+                {
+                    "name": "Swarm",
+                    "settings": [
+                        {
+                            "name": "CastAbility",
+                            "value": "[Button 2]"
+                        },
+                        {
+                            "name": "CastUltimate",
+                            "value": "[Button 4]"
+                        },
+                        {
+                            "name": "MoveDown",
+                            "value": "[s]"
+                        },
+                        {
+                            "name": "MoveLeft",
+                            "value": "[a]"
+                        },
+                        {
+                            "name": "MoveRight",
+                            "value": "[d]"
+                        },
+                        {
+                            "name": "MoveUp",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "ToggleMouseAim",
+                            "value": "[c]"
+                        }
+                    ]
+                },
+                {
+                    "name": "WASD",
+                    "settings": [
+                        {
+                            "name": "AutoAttack",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "CameraLockToggle",
+                            "value": "[y]"
+                        },
+                        {
+                            "name": "CameraSnap",
+                            "value": "[Space]"
+                        },
+                        {
+                            "name": "CancelCurrentActions",
+                            "value": "[c]"
+                        },
+                        {
+                            "name": "CastAction",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "CastActionCancel",
+                            "value": "[c]"
+                        },
+                        {
+                            "name": "CastAvatarSpell1",
+                            "value": "[q]"
+                        },
+                        {
+                            "name": "CastAvatarSpell2",
+                            "value": "[f]"
+                        },
+                        {
+                            "name": "CastRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "CastSpell1",
+                            "value": "[Button 2]"
+                        },
+                        {
+                            "name": "CastSpell2",
+                            "value": "[Button 5]"
+                        },
+                        {
+                            "name": "CastSpell3",
+                            "value": "[Button 4]"
+                        },
+                        {
+                            "name": "CastSpell4",
+                            "value": "[r]"
+                        },
+                        {
+                            "name": "ChampMasteryDisplay",
+                            "value": "[F6]"
+                        },
+                        {
+                            "name": "ChampionOnly",
+                            "value": "[x]"
+                        },
+                        {
+                            "name": "ChampionSpecificInteraction1",
+                            "value": "[Alt][F1]"
+                        },
+                        {
+                            "name": "ChampionSpecificInteraction2",
+                            "value": "[Alt][F2]"
+                        },
+                        {
+                            "name": "ChampionSpecificInteraction3",
+                            "value": "[L Win]"
+                        },
+                        {
+                            "name": "ChampionSpecificInteraction4",
+                            "value": "[Alt][F4]"
+                        },
+                        {
+                            "name": "ChampionSpecificInteraction5",
+                            "value": "[Alt][F5]"
+                        },
+                        {
+                            "name": "ChampionSpecificInteraction6",
+                            "value": "[Alt][F6]"
+                        },
+                        {
+                            "name": "ChatHistory",
+                            "value": "[z]"
+                        },
+                        {
+                            "name": "CycleAllies",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteCenter",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteEast",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteNorth",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteNorthEast",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteNorthWest",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteSouth",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteSouthEast",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteSouthWest",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DirectionalEmoteWest",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DragScrollLock",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "DrawHud",
+                            "value": "[App Menu]"
+                        },
+                        {
+                            "name": "EmoteDance",
+                            "value": "[Ctrl][3]"
+                        },
+                        {
+                            "name": "EmoteJoke",
+                            "value": "[Ctrl][1]"
+                        },
+                        {
+                            "name": "EmoteLaugh",
+                            "value": "[Ctrl][4]"
+                        },
+                        {
+                            "name": "EmoteTaunt",
+                            "value": "[Ctrl][2]"
+                        },
+                        {
+                            "name": "EmoteToggle",
+                            "value": "[Ctrl][5]"
+                        },
+                        {
+                            "name": "FreeDynamicCameraToggle",
+                            "value": "[Button 3]"
+                        },
+                        {
+                            "name": "HoldShowScoreBoard",
+                            "value": "[Tab]"
+                        },
+                        {
+                            "name": "InteractWithObject",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "LevelSpell1",
+                            "value": "[Ctrl][Button 2]"
+                        },
+                        {
+                            "name": "LevelSpell2",
+                            "value": "[Ctrl][Button 5]"
+                        },
+                        {
+                            "name": "LevelSpell3",
+                            "value": "[Ctrl][Button 4]"
+                        },
+                        {
+                            "name": "LevelSpell4",
+                            "value": "[Ctrl][r]"
+                        },
+                        {
+                            "name": "MoveCursorDown",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "MoveCursorLeft",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "MoveCursorRight",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "MoveCursorUp",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "MoveDown",
+                            "value": "[s]"
+                        },
+                        {
+                            "name": "MoveLeft",
+                            "value": "[a]"
+                        },
+                        {
+                            "name": "MoveRight",
+                            "value": "[d]"
+                        },
+                        {
+                            "name": "MoveUp",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "NormalCastAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "NormalCastVisionItem",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "OnUIMouse4Pan",
+                            "value": "[Button 3]"
+                        },
+                        {
+                            "name": "OpenEmoteWheel",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "OpenShop",
+                            "value": "[p],[`]"
+                        },
+                        {
+                            "name": "PetMoveClick",
+                            "value": "[Ctrl][Button 1]"
+                        },
+                        {
+                            "name": "PlayerPing",
+                            "value": "[Alt][Button 1]"
+                        },
+                        {
+                            "name": "PlayerPingAllIn",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingAreaIsWarded",
+                            "value": "[CapsLock]"
+                        },
+                        {
+                            "name": "PlayerPingComeHere",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingCursor",
+                            "value": "[g]"
+                        },
+                        {
+                            "name": "PlayerPingCursorDanger",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingDanger",
+                            "value": "[L Shift]"
+                        },
+                        {
+                            "name": "PlayerPingMIA",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingOMW",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingPush",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingRadialDanger",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PlayerPingVisionNeeded",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolIncGameClock",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolIncGold",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolIncLevel",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolLockLevel",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolRemoveTargetDummy",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolResetCooldown",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolResetGame",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolResetHP",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolResetPAR",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolRevive",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnAlliedTargetDummy",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnDragonAir",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnDragonEarth",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnDragonElder",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnDragonFire",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnDragonOcean",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnEnemyTargetDummy",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnJungle",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolSpawnJunglePlants",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolTeleport",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolToggleMinions",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolToggleTurrets",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "PracticeToolTurretInv",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "QuickOpenEmoteWheel",
+                            "value": "[t]"
+                        },
+                        {
+                            "name": "ReciprocityMyBadTrigger",
+                            "value": "[i]"
+                        },
+                        {
+                            "name": "ReciprocityTrigger",
+                            "value": "[u]"
+                        },
+                        {
+                            "name": "ScrollDown",
+                            "value": "[Down Arrow]"
+                        },
+                        {
+                            "name": "ScrollLeft",
+                            "value": "[Left Arrow]"
+                        },
+                        {
+                            "name": "ScrollRight",
+                            "value": "[Right Arrow]"
+                        },
+                        {
+                            "name": "ScrollUp",
+                            "value": "[Up Arrow]"
+                        },
+                        {
+                            "name": "SelectAlly1",
+                            "value": "[F1]"
+                        },
+                        {
+                            "name": "SelectAlly2",
+                            "value": "[F2]"
+                        },
+                        {
+                            "name": "SelectAlly3",
+                            "value": "[F3]"
+                        },
+                        {
+                            "name": "SelectAlly4",
+                            "value": "[F4]"
+                        },
+                        {
+                            "name": "SelectAlly5",
+                            "value": "[F5]"
+                        },
+                        {
+                            "name": "SelectObject",
+                            "value": "[Button 1],[e]"
+                        },
+                        {
+                            "name": "SelectSelf",
+                            "value": "[Space]"
+                        },
+                        {
+                            "name": "SelfCastAvatarSpell1",
+                            "value": "[Alt][q]"
+                        },
+                        {
+                            "name": "SelfCastAvatarSpell2",
+                            "value": "[Alt][f]"
+                        },
+                        {
+                            "name": "SelfCastItem1",
+                            "value": "[Alt][1]"
+                        },
+                        {
+                            "name": "SelfCastItem2",
+                            "value": "[Alt][2]"
+                        },
+                        {
+                            "name": "SelfCastItem3",
+                            "value": "[Alt][3]"
+                        },
+                        {
+                            "name": "SelfCastItem4",
+                            "value": "[Alt][5]"
+                        },
+                        {
+                            "name": "SelfCastItem5",
+                            "value": "[Alt][6]"
+                        },
+                        {
+                            "name": "SelfCastItem6",
+                            "value": "[Alt][7]"
+                        },
+                        {
+                            "name": "SelfCastRoleBound",
+                            "value": "[Alt][v]"
+                        },
+                        {
+                            "name": "SelfCastSpell1",
+                            "value": "[Alt][Button 2]"
+                        },
+                        {
+                            "name": "SelfCastSpell2",
+                            "value": "[Alt][Button 5]"
+                        },
+                        {
+                            "name": "SelfCastSpell3",
+                            "value": "[Alt][Button 4]"
+                        },
+                        {
+                            "name": "SelfCastSpell4",
+                            "value": "[Alt][r]"
+                        },
+                        {
+                            "name": "SelfCastVisionItem",
+                            "value": "[Alt][4]"
+                        },
+                        {
+                            "name": "ShopFocusSearch",
+                            "value": "[Ctrl][Return]"
+                        },
+                        {
+                            "name": "ShopPurchaseRecommended1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "ShopPurchaseRecommended2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "ShopPurchaseRecommended3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "ShopSwitchTabs",
+                            "value": "[Ctrl][Tab]"
+                        },
+                        {
+                            "name": "ShowCharacterMenu",
+                            "value": "[c],[Space]"
+                        },
+                        {
+                            "name": "ShowHealthBars",
+                            "value": "[Ctrl][App Menu]"
+                        },
+                        {
+                            "name": "ShowScoreBoard",
+                            "value": "[o]"
+                        },
+                        {
+                            "name": "ShowSummonerNames",
+                            "value": "[Ctrl][-]"
+                        },
+                        {
+                            "name": "SmartCastAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastVisionItem",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorRoleBound",
+                            "value": "[v]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartCastWithIndicatorVisionItem",
+                            "value": "[4]"
+                        },
+                        {
+                            "name": "SmartInteract",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastVisionItem",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorAvatarSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorAvatarSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorItem1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorItem2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorItem3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorItem4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorItem5",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorItem6",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorRoleBound",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorSpell1",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorSpell2",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorSpell3",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorSpell4",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SmartPlusSelfCastWithIndicatorVisionItem",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "SysMenu",
+                            "value": "[Esc]"
+                        },
+                        {
+                            "name": "ToggleDeathRecapShowcase",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "ToggleFPSAndLatency",
+                            "value": "[Ctrl][f]"
+                        },
+                        {
+                            "name": "ToggleMinionHealthBars",
+                            "value": "[Ctrl][Alt][App Menu]"
+                        },
+                        {
+                            "name": "ToggleMouseClip",
+                            "value": "[F9]"
+                        },
+                        {
+                            "name": "TogglePlayerStats",
+                            "value": "[Ctrl][c]"
+                        },
+                        {
+                            "name": "UseItem1",
+                            "value": "[1]"
+                        },
+                        {
+                            "name": "UseItem2",
+                            "value": "[2]"
+                        },
+                        {
+                            "name": "UseItem3",
+                            "value": "[3]"
+                        },
+                        {
+                            "name": "UseItem4",
+                            "value": "[5]"
+                        },
+                        {
+                            "name": "UseItem5",
+                            "value": "[6]"
+                        },
+                        {
+                            "name": "UseItem6",
+                            "value": "[7]"
+                        },
+                        {
+                            "name": "UseItem7",
+                            "value": "[b]"
+                        },
+                        {
+                            "name": "UseVisionItem",
+                            "value": "[Alt][Button 3]"
+                        },
+                        {
+                            "name": "evtPracticeToolIncGameClock",
+                            "value": "[Ctrl][Alt][O],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolIncGold",
+                            "value": "[Ctrl][Alt][t],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolIncLevel",
+                            "value": "[Ctrl][Alt][y],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolLockLevel",
+                            "value": "[Ctrl][Alt][u],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolRemoveTargetDummy",
+                            "value": "[Ctrl][Alt][m],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetCooldown",
+                            "value": "[Ctrl][Alt][x],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetGame",
+                            "value": "[Ctrl][Alt][P],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetHP",
+                            "value": "[Ctrl][Alt][z],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolResetPAR",
+                            "value": "[Ctrl][Alt][c],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolRevive",
+                            "value": "[Ctrl][Alt][v],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnAlliedTargetDummy",
+                            "value": "[Ctrl][Alt][n],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonAir",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonEarth",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonElder",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonFire",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnDragonOcean",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnEnemyTargetDummy",
+                            "value": "[Ctrl][Alt][b],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnJungle",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolSpawnJunglePlants",
+                            "value": "[<Unbound>],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolTeleport",
+                            "value": "[Ctrl][Alt][s],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolToggleMinions",
+                            "value": "[Ctrl][Alt][I],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolToggleTurrets",
+                            "value": "[Ctrl][Alt][g],[<Unbound>]"
+                        },
+                        {
+                            "name": "evtPracticeToolTurretInv",
+                            "value": "[Ctrl][Alt][h],[<Unbound>]"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

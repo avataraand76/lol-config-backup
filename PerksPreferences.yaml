@@ -1,0 +1,439 @@
+page-settings:
+    data:
+        pages: []
+        perShardPerkBooks:
+            vn2:
+                currentPageId: 298925346
+                pages:
+                -   autoModifiedSelections: []
+                    current: true
+                    id: 298925346
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1787582623057
+                    name: "Trang Ng\u1ECDc M\u1EDBi 1"
+                    order: 0
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/DarkHarvest/DarkHarvest.png"
+                        id: 8128
+                        name: "Thu Th\u1EADp H\u1EAFc \xC1m"
+                        slotType: "kKeyStone"
+                        styleId: 8100
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/domination_icon_16.svg"
+                    primaryStyleId: 8100
+                    primaryStyleName: "\xC1p \u0110\u1EA3o"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    secondaryStyleName: "Ph\xE1p Thu\u1EADt"
+                    selectedPerkIds:
+                    - 8128
+                    - 8139
+                    - 8140
+                    - 8106
+                    - 8210
+                    - 8236
+                    - 5008
+                    - 5008
+                    - 5001
+                    subStyleId: 8200
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/p8100_s8200_k8128.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/DarkHarvest/DarkHarvest.png"
+                        id: 8128
+                        name: "Thu Th\u1EADp H\u1EAFc \xC1m"
+                        slotType: "kKeyStone"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png"
+                        id: 8139
+                        name: "V\u1ECB M\xE1u"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/GrislyMementos/GrislyMementos.png"
+                        id: 8140
+                        name: "K\xFD \u1EE8c Kinh Ho\xE0ng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
+                        id: 8106
+                        name: "Th\u1EE3 S\u0103n T\u1ED1i Th\u01B0\u1EE3ng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Transcendence/Transcendence.png"
+                        id: 8210
+                        name: "Th\u0103ng Ti\u1EBFn S\u1EE9c M\u1EA1nh"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png"
+                        id: 8236
+                        name: "Cu\u1ED3ng Phong T\xEDch T\u1EE5"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "M\xE1u T\u0103ng Ti\u1EBFn"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1997262292
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1769852970349
+                    name: "test test test"
+                    order: 1
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png"
+                        id: 8360
+                        name: "S\xE1ch Ph\xE9p"
+                        slotType: "kKeyStone"
+                        styleId: 8300
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
+                    primaryStyleId: 8300
+                    primaryStyleName: "C\u1EA3m H\u1EE9ng"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Ki\xEAn \u0110\u1ECBnh"
+                    selectedPerkIds:
+                    - 8360
+                    - 8321
+                    - 8352
+                    - 8316
+                    - 8473
+                    - 8242
+                    - 5008
+                    - 5008
+                    - 5001
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/p8300_s8400_k8360.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/UnsealedSpellbook/UnsealedSpellbook.png"
+                        id: 8360
+                        name: "S\xE1ch Ph\xE9p"
+                        slotType: "kKeyStone"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/CashBack/CashBack2.png"
+                        id: 8321
+                        name: "Ho\xE0n Ti\u1EC1n"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/TimeWarpTonic/TimeWarpTonic.png"
+                        id: 8352
+                        name: "Thu\u1ED1c Th\u1EDDi Gian"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/JackOfAllTrades/JackofAllTrades2.png"
+                        id: 8316
+                        name: "Nh\u1EA1c N\xE0o C\u0169ng Nh\u1EA3y"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/BonePlating/BonePlating.png"
+                        id: 8473
+                        name: "Gi\xE1p C\u1ED1t"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+                        id: 8242
+                        name: "Ki\xEAn C\u01B0\u1EDDng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "M\xE1u T\u0103ng Ti\u1EBFn"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1486534681
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1784720455740
+                    name: "Blitz: Aatrox Top"
+                    order: 4
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Conqueror/Conqueror.png"
+                        id: 8010
+                        name: "Chinh Ph\u1EE5c"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
+                    primaryStyleId: 8000
+                    primaryStyleName: "Chu\u1EA9n X\xE1c"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Ki\xEAn \u0110\u1ECBnh"
+                    selectedPerkIds:
+                    - 8010
+                    - 9111
+                    - 9105
+                    - 8299
+                    - 8473
+                    - 8453
+                    - 5008
+                    - 5008
+                    - 5001
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8010.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Conqueror/Conqueror.png"
+                        id: 8010
+                        name: "Chinh Ph\u1EE5c"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
+                        id: 9111
+                        name: "\u0110\u1EAFc Th\u1EAFng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendHaste/LegendHaste.png"
+                        id: 9105
+                        name: "Huy\u1EC1n Tho\u1EA1i: Gia T\u1ED1c"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
+                        id: 8299
+                        name: "Ch\u1ED1t Ch\u1EB7n Cu\u1ED1i C\xF9ng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/BonePlating/BonePlating.png"
+                        id: 8473
+                        name: "Gi\xE1p C\u1ED1t"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Revitalize/Revitalize.png"
+                        id: 8453
+                        name: "Ti\u1EBFp S\u1EE9c"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "M\xE1u T\u0103ng Ti\u1EBFn"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 1615091071
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1784640331237
+                    name: "OP.GG aram Jax"
+                    order: 4
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Conqueror/Conqueror.png"
+                        id: 8010
+                        name: "Chinh Ph\u1EE5c"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
+                    primaryStyleId: 8000
+                    primaryStyleName: "Chu\u1EA9n X\xE1c"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Ki\xEAn \u0110\u1ECBnh"
+                    selectedPerkIds:
+                    - 8010
+                    - 9111
+                    - 9105
+                    - 8299
+                    - 8242
+                    - 8429
+                    - 5005
+                    - 5008
+                    - 5001
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8010.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Conqueror/Conqueror.png"
+                        id: 8010
+                        name: "Chinh Ph\u1EE5c"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
+                        id: 9111
+                        name: "\u0110\u1EAFc Th\u1EAFng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendHaste/LegendHaste.png"
+                        id: 9105
+                        name: "Huy\u1EC1n Tho\u1EA1i: Gia T\u1ED1c"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
+                        id: 8299
+                        name: "Ch\u1ED1t Ch\u1EB7n Cu\u1ED1i C\xF9ng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+                        id: 8242
+                        name: "Ki\xEAn C\u01B0\u1EDDng"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
+                        id: 8429
+                        name: "Ki\u1EC3m So\xE1t \u0110i\u1EC1u Ki\u1EC7n"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
+                        name: "T\u1ED1c \u0110\u1ED9 \u0110\xE1nh"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "S\u1EE9c M\u1EA1nh Th\xEDch \u1EE8ng"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "M\xE1u T\u0103ng Ti\u1EBFn"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 60067864
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1769172146999
+                    name: "Trang Ng\u1ECDc M\u1EDBi 2"
+                    order: 5
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/GlacialAugment/GlacialAugment.png"
+                        id: 8351
+                        name: "N\xE2ng C\u1EA5p B\u0103ng Gi\xE1"
+                        slotType: "kKeyStone"
+                        styleId: 8300
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
+                    primaryStyleId: 8300
+                    primaryStyleName: "C\u1EA3m H\u1EE9ng"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    secondaryStyleName: "Ph\xE1p Thu\u1EADt"
+                    selectedPerkIds:
+                    - 8351
+                    - 8306
+                    - 8345
+                    - 8347
+                    - 8275
+                    - 8234
+                    - 5005
+                    - 5001
+                    - 5001
+                    subStyleId: 8200
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/p8300_s8200_k8351.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/GlacialAugment/GlacialAugment.png"
+                        id: 8351
+                        name: "N\xE2ng C\u1EA5p B\u0103ng Gi\xE1"
+                        slotType: "kKeyStone"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/HextechFlashtraption/HextechFlashtraption.png"
+                        id: 8306
+                        name: "T\u1ED1c Bi\u1EBFn Ma Thu\u1EADt"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png"
+                        id: 8345
+                        name: "Giao H\xE0ng B\xE1nh Quy"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png"
+                        id: 8347
+                        name: "Th\u1EA5u Th\u1ECB V\u0169 Tr\u1EE5"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/NimbusCloak/6361.png"
+                        id: 8275
+                        name: "\xC1o Cho\xE0ng M\xE2y"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Celerity/CelerityTemp.png"
+                        id: 8234
+                        name: "Mau L\u1EB9"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
+                        name: "T\u1ED1c \u0110\u1ED9 \u0110\xE1nh"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "M\xE1u T\u0103ng Ti\u1EBFn"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "M\xE1u T\u0103ng Ti\u1EBFn"
+                        slotType: "kStatMod"
+                        styleId: 8400
+        settings:
+            gameplayPatchVersionSeen: "16.9"
+            gameplayUpdatedPerksSeen: []
+            gridModeEnabled: true
+            showLongDescriptions: true
+            showPresetPages: true
+    schemaVersion: 5

@@ -1,0 +1,4 @@
+jade-voting-system:
+    data:
+        hasSeenFtux: true
+    schemaVersion: 1

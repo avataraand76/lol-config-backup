@@ -99,7 +99,9 @@ lol-user-experience:
     data:
         abilityPreviewsDisabled: true
         hasBeenPromptedForPotatoMode: true
+        hasSeenBridgeTftTooltip: true
         lastKnownMachineSpec: 5
+        showPardonOurDustPip: false
     schemaVersion: 3
 video:
     data:

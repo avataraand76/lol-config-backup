@@ -253,7 +253,7 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.16.804.9184"
+              "value": "16.17.810.4348"
             },
             {
               "name": "CursorOverride",
@@ -1100,7 +1100,7 @@
             },
             {
               "name": "evtOpenShop",
-              "value": "[p],[`]"
+              "value": "[p],[`],[n]"
             },
             {
               "name": "evtPetMoveClick",
@@ -1272,7 +1272,7 @@
             },
             {
               "name": "evtPushToTalk",
-              "value": "[<Unbound>],[<Unbound>]"
+              "value": "[,],[<Unbound>]"
             },
             {
               "name": "evtPushToTalkTeam",
@@ -2680,7 +2680,7 @@
             },
             {
               "name": "OpenShop",
-              "value": "[p],[`]"
+              "value": "[p],[`],[n]"
             },
             {
               "name": "PetMoveClick",

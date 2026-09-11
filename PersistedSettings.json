@@ -253,7 +253,11 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.17.810.4348"
+              "value": "16.18.816.5012"
+            },
+            {
+              "name": "ClampCastTargetLocationWithinMaxRange",
+              "value": "1"
             },
             {
               "name": "CursorOverride",
@@ -546,7 +550,7 @@
             },
             {
               "name": "ScrollSmoothingEnabled",
-              "value": "0"
+              "value": "1"
             },
             {
               "name": "ShopScale",
@@ -1974,6 +1978,19 @@
             {
               "name": "evtSmartCastWithIndicatorSpell4",
               "value": "[r]"
+            }
+          ]
+        },
+        {
+          "name": "GameEvents.Morgana",
+          "settings": [
+            {
+              "name": "evtCastSpell1",
+              "value": "[<Unbound>]"
+            },
+            {
+              "name": "evtSmartCastWithIndicatorSpell1",
+              "value": "[q]"
             }
           ]
         },

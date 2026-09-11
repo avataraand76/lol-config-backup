@@ -1,4 +1,6 @@
 jade-voting-system:
     data:
+        eventId: "10713b7c-cac2-41f0-a954-c3f54c5134a7"
         hasSeenFtux: true
+        hasSeenResults: true
     schemaVersion: 1

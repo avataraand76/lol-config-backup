@@ -1,0 +1,295 @@
+{
+	"gameplaySettings":
+	{
+		"bAutoOpenCombatRecap": true,
+		"bAutoOpenShop": true
+	},
+	"socialSettings":
+	{
+		"bEnableInGameChat": true,
+		"bEnableChatLanguageFilter": false
+	},
+	"telemetrySettings":
+	{
+	},
+	"setIntroModalViewedVersion": 0,
+	"seenLobbyModals": [],
+	"keybindMappings":
+	{
+		"IA_ToggleTeamPlanner":
+		{
+			"keyName": "P"
+		},
+		"IA_ToggleCombatRecap":
+		{
+			"keyName": "Tab"
+		},
+		"IA_MouseRightUp":
+		{
+			"keyName": "RightMouseButton"
+		},
+		"IA_MouseRightDown":
+		{
+			"keyName": "RightMouseButton"
+		},
+		"IA_MouseRightHold":
+		{
+			"keyName": "RightMouseButton"
+		},
+		"IA_Stop":
+		{
+			"keyName": "S"
+		},
+		"IA_ToggleOpponentCombatRecap":
+		{
+			"keyName": "A"
+		},
+		"IA_CycleCombatRecapTabs":
+		{
+			"keyName": "Period"
+		},
+		"IA_FieldActor":
+		{
+			"keyName": "W"
+		},
+		"IA_ToggleCarousel":
+		{
+			"keyName": "Two"
+		},
+		"IA_ToggleSettingsMenu":
+		{
+			"keyName": "Escape"
+		},
+		"IA_ToggleMouseScreenLock":
+		{
+			"keyName": "F9"
+		},
+		"IA_PurchaseShopReroll":
+		{
+			"keyName": "D"
+		},
+		"IA_PurchaseExp":
+		{
+			"keyName": "F"
+		},
+		"IA_SellActor":
+		{
+			"keyName": "E"
+		},
+		"IA_PurchaseShopSlot1":
+		{
+			"keyName": "None"
+		},
+		"IA_PurchaseShopSlot2":
+		{
+			"keyName": "None"
+		},
+		"IA_PurchaseShopSlot3":
+		{
+			"keyName": "None"
+		},
+		"IA_PurchaseShopSlot4":
+		{
+			"keyName": "None"
+		},
+		"IA_PurchaseShopSlot5":
+		{
+			"keyName": "None"
+		},
+		"IA_LockShop":
+		{
+			"keyName": "None"
+		},
+		"IA_ScoutLeft":
+		{
+			"keyName": "One"
+		},
+		"IA_ScoutRight":
+		{
+			"keyName": "Three"
+		},
+		"IA_LookLocalArena":
+		{
+			"keyName": "SpaceBar"
+		},
+		"IA_LookArena1":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena2":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena3":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena4":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena5":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena6":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena7":
+		{
+			"keyName": "None"
+		},
+		"IA_LookArena8":
+		{
+			"keyName": "None"
+		},
+		"IA_CenterCamera":
+		{
+			"keyName": "None"
+		},
+		"IA_TacticianEmoteCtrlKey":
+		{
+			"keyName": "LeftControl"
+		},
+		"IA_TacticianEmote1":
+		{
+			"keyName": "One"
+		},
+		"IA_TacticianEmote2":
+		{
+			"keyName": "Two"
+		},
+		"IA_TacticianEmote3":
+		{
+			"keyName": "Three"
+		},
+		"IA_TacticianEmote4":
+		{
+			"keyName": "Four"
+		},
+		"IA_SummonerEmote":
+		{
+			"keyName": "None"
+		},
+		"IA_OpenEmoteWheel":
+		{
+			"keyName": "T"
+		},
+		"IA_EmoteWheelCenter":
+		{
+			"keyName": "None"
+		},
+		"IA_EmoteWheelNorth":
+		{
+			"keyName": "None"
+		},
+		"IA_EmoteWheelEast":
+		{
+			"keyName": "None"
+		},
+		"IA_EmoteWheelSouth":
+		{
+			"keyName": "None"
+		},
+		"IA_EmoteWheelWest":
+		{
+			"keyName": "None"
+		},
+		"IA_MouseLeftUp":
+		{
+			"keyName": "LeftMouseButton"
+		},
+		"IA_MouseLeftDown":
+		{
+			"keyName": "LeftMouseButton"
+		},
+		"IA_MouseLeftHold":
+		{
+			"keyName": "LeftMouseButton"
+		},
+		"IA_Zoom":
+		{
+			"keyName": "MouseWheelAxis"
+		},
+		"IA_ToggleVisibility_Healthbars":
+		{
+			"keyName": "None"
+		},
+		"IA_FocusChatBox":
+		{
+			"keyName": "Enter"
+		},
+		"IA_ToggleVisibility_All":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Shop":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Armories":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Tooltips":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Menu":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Rounds":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Scoreboard":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleVisibility_Traits":
+		{
+			"keyName": "None"
+		},
+		"IA_ToggleFollowPlayerScouts":
+		{
+			"keyName": "None"
+		},
+		"IA_ReloadStream":
+		{
+			"keyName": "None"
+		}
+	},
+	"bBoomLoop": false,
+	"bPortalLoop": false,
+	"lastDailySessionDateTime": "2026.08.29-00.00.00",
+	"bHasStartedFirstGame": false,
+	"previewedContentIds": [],
+	"seenBannerIds": [],
+	"seenPromoBannerIds": [],
+	"seenStoreContentHashes":
+	{
+	},
+	"loadoutFavorites":
+	{
+		"tacticians": [],
+		"booms": [],
+		"arenas": [],
+		"portals": [],
+		"schemaVersion": 1
+	},
+	"seenLoadoutItems": [],
+	"bRandomizeLoadoutFromFavorites": false,
+	"loadoutHighlights":
+	{
+		"tacticians": [],
+		"booms": [],
+		"arenas": [],
+		"portals": []
+	},
+	"bTreasureRealmsHighlighted": false,
+	"bHasSeenWIPCosmeticTooltipInLobby": false,
+	"bHasSeenXboxGamePassModal": false,
+	"bHasSeenCompensationLoyaltyTooltip": false
+}

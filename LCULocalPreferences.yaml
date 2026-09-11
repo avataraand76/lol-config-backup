@@ -12,7 +12,7 @@ lol-audio:
         championSelectionMusicEnabled: true
         clientAmbienceMusicEnabled: true
         masterSoundEnabled: true
-        masterVolume: 75
+        masterVolume: 50
         musicEnabled: true
         musicVolume: 100
         sfxVolume: 100
@@ -21,52 +21,52 @@ lol-audio:
 lol-clash:
     data:
         simpleStateFlagIds:
-        - "registration_open_tournament_241581"
         - "registration_open_tournament_241501"
+        - "registration_open_tournament_241581"
         - "registration_open_tournament_241502"
-        - "lock_in_open_tournament_241582_phase_241582"
-        - "lock_in_open_tournament_241502_phase_241502"
         - "registration_open_tournament_241802"
         - "lock_in_open_tournament_241702_phase_241702"
         - "registration_open_tournament_241521"
-        - "registration_open_tournament_241801"
+        - "lock_in_open_tournament_241582_phase_241582"
+        - "lock_in_open_tournament_241502_phase_241502"
         - "registration_open_tournament_241522"
+        - "registration_open_tournament_241801"
         - "registration_open_tournament_241541"
-        - "registration_open_tournament_241561"
         - "registration_open_tournament_241842"
+        - "registration_open_tournament_241561"
         - "registration_open_tournament_241582"
         - "registration_open_tournament_241601"
         - "registration_open_tournament_241621"
         - "registration_open_tournament_241622"
         - "registration_open_tournament_241641"
-        - "lock_in_open_tournament_241641_phase_241641"
         - "registration_open_tournament_241741"
-        - "lock_in_open_tournament_241721_phase_241721"
+        - "lock_in_open_tournament_241641_phase_241641"
         - "registration_open_tournament_241642"
+        - "lock_in_open_tournament_241721_phase_241721"
         - "registration_open_tournament_241661"
         - "lock_in_open_tournament_241661_phase_241661"
         - "registration_open_tournament_241662"
-        - "registration_open_tournament_241861"
         - "registration_open_tournament_241681"
+        - "registration_open_tournament_241861"
         - "lock_in_open_tournament_241681_phase_241681"
-        - "registration_open_tournament_241862"
-        - "lock_in_open_tournament_241802_phase_241802"
         - "registration_open_tournament_241682"
+        - "lock_in_open_tournament_241802_phase_241802"
+        - "registration_open_tournament_241862"
         - "registration_open_tournament_241701"
-        - "lock_in_open_tournament_241701_phase_241701"
         - "registration_open_tournament_241761"
+        - "lock_in_open_tournament_241701_phase_241701"
         - "registration_open_tournament_241702"
         - "registration_open_tournament_241721"
         - "registration_open_tournament_241742"
-        - "lock_in_open_tournament_241862_phase_241862"
-        - "registration_open_tournament_241822"
         - "lock_in_open_tournament_241761_phase_241761"
+        - "registration_open_tournament_241822"
+        - "lock_in_open_tournament_241862_phase_241862"
         - "registration_open_tournament_241762"
-        - "lock_in_open_tournament_241762_phase_241762"
         - "registration_open_tournament_241781"
+        - "lock_in_open_tournament_241762_phase_241762"
         - "registration_open_tournament_241782"
-        - "lock_in_open_tournament_241782_phase_241782"
         - "lock_in_open_tournament_241841_phase_241841"
+        - "lock_in_open_tournament_241782_phase_241782"
         - "lock_in_open_tournament_241801_phase_241801"
         - "registration_open_tournament_241821"
         - "registration_open_tournament_241841"
@@ -77,8 +77,8 @@ lol-parties:
     schemaVersion: 1
 lol-premade-voice:
     data:
-        currentCaptureDeviceHandle: "{68230d42-c7bd-4eca-bb40-a2b2ad140b6c}"
-        inputVolume: 50
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 100
         vadAuto: true
         vadSensitivity: 50
     schemaVersion: 1

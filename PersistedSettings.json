@@ -253,7 +253,7 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.18.816.5012"
+              "value": "16.19.820.7193"
             },
             {
               "name": "ClampCastTargetLocationWithinMaxRange",
@@ -935,6 +935,10 @@
               "value": "[z],[<Unbound>]"
             },
             {
+              "name": "evtCycleAllies",
+              "value": "[<Unbound>],[<Unbound>]"
+            },
+            {
               "name": "evtDecreaseReplaySpeed",
               "value": "[-],[Num-]"
             },
@@ -1015,6 +1019,10 @@
               "value": "[Num7],[<Unbound>]"
             },
             {
+              "name": "evtFreeDynamicCameraToggle",
+              "value": "[Button 5],[<Unbound>]"
+            },
+            {
               "name": "evtIncreaseReplaySpeed",
               "value": "[=],[Num+]"
             },
@@ -1041,6 +1049,22 @@
             {
               "name": "evtLevelSpell4",
               "value": "[Ctrl][r],[<Unbound>]"
+            },
+            {
+              "name": "evtMoveCursorDown",
+              "value": "[<Unbound>],[<Unbound>]"
+            },
+            {
+              "name": "evtMoveCursorLeft",
+              "value": "[<Unbound>],[<Unbound>]"
+            },
+            {
+              "name": "evtMoveCursorRight",
+              "value": "[<Unbound>],[<Unbound>]"
+            },
+            {
+              "name": "evtMoveCursorUp",
+              "value": "[<Unbound>],[<Unbound>]"
             },
             {
               "name": "evtNormalCastAvatarSpell1",
@@ -2181,6 +2205,103 @@
             {
               "name": "evtTogglePlayerStats",
               "value": "[Ctrl][c],[<Unbound>]"
+            }
+          ]
+        },
+        {
+          "name": "PracticeToolEvents",
+          "settings": [
+            {
+              "name": "evtPracticeToolIncGameClock",
+              "value": "[Ctrl][Shift][o],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolIncGold",
+              "value": "[Shift][t],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolIncLevel",
+              "value": "[Shift][y],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolLockLevel",
+              "value": "[Shift][u],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolRemoveTargetDummy",
+              "value": "[Shift][m],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolResetCooldown",
+              "value": "[Shift][x],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolResetGame",
+              "value": "[Ctrl][Shift][p],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolResetHP",
+              "value": "[Shift][z],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolResetPAR",
+              "value": "[Shift][c],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolRevive",
+              "value": "[Shift][v],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnAlliedTargetDummy",
+              "value": "[Shift][n],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnDragonAir",
+              "value": "[Shift][j],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnDragonEarth",
+              "value": "[Shift][k],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnDragonElder",
+              "value": "[Shift]['],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnDragonFire",
+              "value": "[Shift][l],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnDragonOcean",
+              "value": "[Shift][Semicolon],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnEnemyTargetDummy",
+              "value": "[Shift][b],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnJungle",
+              "value": "[Ctrl][Shift][j],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolSpawnJunglePlants",
+              "value": "[Alt][Shift][j],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolTeleport",
+              "value": "[Shift][s],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolToggleMinions",
+              "value": "[Ctrl][Shift][i],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolToggleTurrets",
+              "value": "[Shift][g],[<Unbound>]"
+            },
+            {
+              "name": "evtPracticeToolTurretInv",
+              "value": "[Shift][h],[<Unbound>]"
             }
           ]
         },

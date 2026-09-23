@@ -5,7 +5,7 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
 activity-center:
     data:
         lastPatchNotesViewed: "16.18"
-        tabsViewed: "{\"26-15-ac-classic\":true,\"26-15-ac-thematic\":true,\"26-15-ac-ranked\":true,\"26-17-ac-seraphine\":true,\"26-18-ac-halloflegends\":true,\"26-15-ac-mv-garen-darius\":true}"
+        tabsViewed: "{\"26-15-ac-classic\":true,\"26-15-ac-thematic\":true,\"26-15-ac-ranked\":true,\"26-17-ac-seraphine\":true,\"26-18-ac-halloflegends\":true,\"26-15-ac-mv-garen-darius\":true,\"26-13-ac-ranked5s\":true,\"26-18-ac-clash\":true,\"26-18-ac-hs\":true}"
         thematicTimelineViewed: "16.9"
     schemaVersion: 1
 career-stats-settings:
@@ -23,12 +23,12 @@ champ-select:
             103: 103086
             104: 104045
             105: 105008
-            106: 106005
+            106: 106006
             107: 107053
             11: 11042
             110: 110007
             111: 111009
-            112: 112025
+            112: 112000
             113: 113016
             114: 114022
             115: 115004
@@ -38,7 +38,7 @@ champ-select:
             120: 120004
             121: 121001
             122: 122004
-            126: 126001
+            126: 126002
             127: 127033
             13: 13008
             131: 131077
@@ -51,12 +51,12 @@ champ-select:
             143: 143004
             145: 145016
             147: 147050
-            15: 15043
+            15: 15070
             150: 150014
             154: 154002
             157: 157003
             16: 16016
-            161: 161001
+            161: 161003
             163: 163003
             164: 164021
             166: 166001
@@ -72,7 +72,7 @@ champ-select:
             21: 21003
             22: 22023
             221: 221029
-            222: 222037
+            222: 222004
             223: 223002
             23: 23002
             233: 233000
@@ -80,10 +80,10 @@ champ-select:
             235: 235010
             236: 236006
             238: 238003
-            24: 24032
+            24: 24042
             240: 240001
             245: 245057
-            246: 246002
+            246: 246021
             25: 25081
             254: 254048
             26: 26000
@@ -122,16 +122,16 @@ champ-select:
             48: 48001
             497: 497018
             498: 498003
-            5: 5027
+            5: 5020
             50: 50033
             51: 51017
             516: 516011
             517: 517013
             518: 518049
-            523: 523000
+            523: 523001
             526: 526010
             53: 53007
-            54: 54006
+            54: 54002
             55: 55029
             555: 555044
             56: 56005
@@ -144,7 +144,7 @@ champ-select:
             60004: 60004301
             60005: 60005301
             60010: 60010302
-            60011: 60011009
+            60011: 60011301
             60012: 60012010
             60013: 60013301
             60014: 60014301
@@ -153,15 +153,17 @@ champ-select:
             60019: 60019301
             60020: 60020301
             60022: 60022000
-            60024: 60024301
+            60024: 60024042
             60025: 60025301
             60028: 60028301
             60029: 60029301
             60036: 60036301
             60037: 60037000
             60041: 60041301
+            60042: 60042018
             60053: 60053000
             60059: 60059006
+            60064: 60064011
             60067: 60067000
             60072: 60072301
             60074: 60074301
@@ -173,9 +175,11 @@ champ-select:
             60081: 60081301
             60084: 60084301
             60086: 60086301
+            60096: 60096000
             60098: 60098301
             60102: 60102301
             60103: 60103301
+            60114: 60114301
             61: 61007
             62: 62007
             63: 63005
@@ -252,7 +256,7 @@ champ-select:
             - 12
             3140:
             - 4
-            - 12
+            - 14
             3270:
             - 4
             - 32
@@ -307,14 +311,14 @@ clash-tutorial:
 cosmetics-last-viewed-date:
     data:
         typeToLastOpenedDate:
-            COMPANION: 1788020177
+            COMPANION: 1789173978
             TFT_DAMAGE_SKIN: 1751292037
             TFT_MAP_SKIN: 1751292024
     schemaVersion: 1
 cosmetics-settings:
     data:
         companions:
-            hideUnowned: false
+            hideUnowned: true
         tft_damage_skins:
             hideUnowned: true
         tft_map_skins:
@@ -339,15 +343,15 @@ event-hub:
             1ce1ae5d-5987-4c83-9690-1a3d1abcd8b8:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-09-11T12:33:41.953Z"
+                lastTimeSeen: "2026-09-23T14:23:30.540Z"
             7c2629b6-5263-4313-8a9e-b16992693111:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-09-11T12:33:39.345Z"
+                lastTimeSeen: "2026-09-23T14:23:13.278Z"
             97267a01-5d78-469a-8fea-d9083298d572:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-09-11T12:33:42.773Z"
+                lastTimeSeen: "2026-09-23T14:23:31.570Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -361,6 +365,29 @@ jade-ftux:
         hasSeenHomeFtux: true
         hasSeenMasteriesFtux: true
         hasSeenRunesFtux: true
+    schemaVersion: 1
+jade-store:
+    data:
+        seenRuneItemIds:
+        - "2ef4bae9-8d72-40ef-bfed-5534fa109924"
+        - "e490d9bd-2fbe-4119-9e4f-abd50c57457f"
+        - "30152a1d-435e-474c-990e-d41bf75712bb"
+        - "895d230e-81a2-4255-9453-fb1171c51516"
+        - "120c9e2a-ca4f-4734-b28f-286baa097544"
+        - "8537fe47-8c8e-4d61-8305-849c9418ecea"
+        - "5c9af61c-1fb2-48e7-9567-5dd034c4df17"
+        - "451a6218-6ba4-4b18-8198-e88e54cac4c6"
+        - "884738dc-b1bf-4c10-b9cf-14c18966c780"
+        - "f5fd3995-672e-4b5d-8527-0038be27aed0"
+        - "6147521e-6259-49cb-b695-3506db953924"
+        - "4ce0aa7a-05fb-4a2c-8feb-93aa0ffb7cfe"
+        - "efcf12ba-1db2-443e-a035-7cc093dc1ffc"
+        - "ef8f0a74-1a3b-4a00-82c1-60054276fbb0"
+        - "33f89d92-c7fa-419c-abee-25b15f3a13f5"
+        - "a8181534-e280-4c3b-a715-61b7509d40ad"
+        - "ccfcb5f4-0569-4fa7-a93e-764c96b3abc3"
+        - "90932347-d12f-4c00-b376-9fefdd3c5f77"
+        - "3975ab91-b0c0-4a28-99fb-7e72598b1747"
     schemaVersion: 1
 jadePositionPreferencesEncountered:
     data:
@@ -397,7 +424,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1789127332607
+        lastVisitTime: 1789815964252
         lcm-eat-seen: true
         sortingDropdownKey: "championMastery"
         unownedFilter: "none"
@@ -440,7 +467,7 @@ lol-customizer-banners:
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1788866295926
+        lastVisitTime: 1789912661915
     schemaVersion: 1
 lol-customizer-titles:
     data:
@@ -990,6 +1017,8 @@ lol-premade-voice:
         showFirstExperienceInGame: true
         showFirstExperienceInLCU: false
         teamVoiceEnabled: false
+        voiceFontEnabledForParty: false
+        voiceFontEnabledForTeam: false
     schemaVersion: 1
 lol-profiles:
     data:
@@ -1080,7 +1109,7 @@ lol-quick-play:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1788708050291
+        lastVisitTime: 1789815846295
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
@@ -1242,7 +1271,7 @@ ranked-eos-notification-22-RANKED_SOLO_5x5-SECOND_WARNING:
     schemaVersion: 1
 shoppefront_JADE_BP:
     data:
-        lastViewed: "2026-09-11T12:31:46.645Z"
+        lastViewed: "2026-09-23T14:28:13.904Z"
     schemaVersion: 1
 shoppefront_MYTHIC_SHOP:
     data:

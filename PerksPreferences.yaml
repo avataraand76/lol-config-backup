@@ -3,10 +3,10 @@ page-settings:
         pages: []
         perShardPerkBooks:
             vn2:
-                currentPageId: 298925346
+                currentPageId: 1997262292
                 pages:
                 -   autoModifiedSelections: []
-                    current: true
+                    current: false
                     id: 298925346
                     isActive: false
                     isDeletable: true
@@ -14,7 +14,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1789128535946
+                    lastModified: 1789130630214
                     name: "Trang Ng\u1ECDc M\u1EDBi 1"
                     order: 0
                     pageKeystone:
@@ -91,7 +91,7 @@ page-settings:
                         slotType: "kStatMod"
                         styleId: 8400
                 -   autoModifiedSelections: []
-                    current: false
+                    current: true
                     id: 1997262292
                     isActive: false
                     isDeletable: true
@@ -99,7 +99,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1769852970349
+                    lastModified: 1790177304929
                     name: "test test test"
                     order: 1
                     pageKeystone:

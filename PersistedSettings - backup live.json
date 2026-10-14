@@ -253,7 +253,7 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.19.820.7193"
+              "value": "16.20.824.8524"
             },
             {
               "name": "ClampCastTargetLocationWithinMaxRange",
@@ -503,6 +503,10 @@
             {
               "name": "MinimapMoveSelf",
               "value": "1"
+            },
+            {
+              "name": "MinimapOpacity",
+              "value": "0.0000"
             },
             {
               "name": "MinimapScale",
@@ -1896,7 +1900,7 @@
             },
             {
               "name": "evtToggleVC",
-              "value": "[Ctrl] [v],[<Unbound>]"
+              "value": "[Ctrl][v],[<Unbound>]"
             },
             {
               "name": "evtUseItem1",

@@ -253,7 +253,7 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.20.824.8524"
+              "value": "16.21.829.8620"
             },
             {
               "name": "ClampCastTargetLocationWithinMaxRange",
@@ -594,6 +594,10 @@
             },
             {
               "name": "ShowLastHitAssist",
+              "value": "1"
+            },
+            {
+              "name": "ShowLoadingScreenBackground",
               "value": "1"
             },
             {

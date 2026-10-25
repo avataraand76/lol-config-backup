@@ -25,11 +25,11 @@ lol-clash:
         - "lock_in_open_tournament_241882_phase_241882"
         - "registration_open_tournament_241501"
         - "registration_open_tournament_241502"
-        - "lock_in_open_tournament_241502_phase_241502"
         - "lock_in_open_tournament_241582_phase_241582"
+        - "lock_in_open_tournament_241502_phase_241502"
+        - "lock_in_open_tournament_241702_phase_241702"
         - "registration_open_tournament_241521"
         - "registration_open_tournament_241802"
-        - "lock_in_open_tournament_241702_phase_241702"
         - "registration_open_tournament_241801"
         - "registration_open_tournament_241522"
         - "registration_open_tournament_241541"
@@ -75,6 +75,8 @@ lol-clash:
         - "registration_open_tournament_241821"
         - "registration_open_tournament_241841"
         - "lock_in_open_tournament_241881_phase_241881"
+        - "lock_in_open_tournament_241901_phase_241901"
+        - "registration_open_tournament_241902"
     schemaVersion: 1
 lol-parties:
     data:
@@ -85,8 +87,8 @@ lol-premade-voice:
         currentCaptureDeviceHandle: "Default System Device"
         inputVolume: 100
         noiseSuppressionEnabled: true
-        vadAuto: true
-        vadSensitivity: 47
+        vadAuto: false
+        vadSensitivity: 65
     schemaVersion: 1
 lol-replays:
     data:

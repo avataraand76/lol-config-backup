@@ -4,8 +4,8 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        lastPatchNotesViewed: "16.19"
-        tabsViewed: "{\"26-18-ac-halloflegends\":true,\"26-15-ac-mv-garen-darius\":true,\"26-20-ac-thematic\":true,\"26-20-ac-heartsteel-skins\":true,\"26-20-ac-worlds-kickoff\":true,\"26-20-ac-worlds-pickems\":true}"
+        lastPatchNotesViewed: "16.20"
+        tabsViewed: "{\"26-20-ac-worlds-kickoff\":true,\"26-20-ac-worlds-schedule\":true,\"26-20-ac-kda\":true,\"26-20-ac-worlds-pickems\":true,\"26-20-ac-truedamage-skins\":true,\"26-21-ac-aram-mayhem\":true,\"26-21-ac-ftw\":true}"
         thematicTimelineViewed: "16.9"
     schemaVersion: 1
 career-stats-settings:
@@ -37,7 +37,7 @@ champ-select:
             12: 12010
             120: 120004
             121: 121001
-            122: 122004
+            122: 122015
             126: 126002
             127: 127033
             13: 13008
@@ -70,7 +70,7 @@ champ-select:
             202: 202005
             203: 203012
             21: 21006
-            22: 22023
+            22: 22043
             221: 221029
             222: 222004
             223: 223002
@@ -98,7 +98,7 @@ champ-select:
             31: 31032
             32: 32025
             33: 33008
-            34: 34046
+            34: 34002
             35: 35071
             350: 350011
             36: 36003
@@ -124,7 +124,7 @@ champ-select:
             498: 498003
             5: 5020
             50: 50033
-            51: 51018
+            51: 51048
             516: 516011
             517: 517046
             518: 518049
@@ -206,7 +206,7 @@ champ-select:
             81: 81009
             82: 82054
             83: 83040
-            84: 84091
+            84: 84013
             85: 85008
             86: 86013
             875: 875010
@@ -217,7 +217,7 @@ champ-select:
             893: 893000
             895: 895001
             897: 897002
-            9: 9006
+            9: 9009
             90: 90005
             901: 901000
             902: 902001
@@ -247,7 +247,7 @@ champ-select:
             - 6
             2400:
             - 4
-            - 32
+            - 6
             2450:
             - 4
             - 6
@@ -340,18 +340,14 @@ emotes:
 event-hub:
     data:
         playerSettingsDataMap:
-            7c2629b6-5263-4313-8a9e-b16992693111:
+            7e9e169d-883b-4fe6-9fb9-d0c2cb8b86ac:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-10-08T11:37:17.202Z"
+                lastTimeSeen: "2026-10-23T23:40:23.002Z"
             8a89ed01-d496-5d10-a285-1a5ad5dd7811:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-10-12T13:44:16.530Z"
-            97267a01-5d78-469a-8fea-d9083298d572:
-                lastSeenTokenBalance: 0
-                lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-10-08T11:37:19.324Z"
+                lastTimeSeen: "2026-10-24T16:59:10.973Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -420,23 +416,24 @@ lol-chat:
 lol-clash:
     data:
         clash-anticheat-modal-seen: true
-        clash-eat-tooltip-241901: true
+        clash-eat-tooltip-241902: true
+        lftPlayerToggleTooltipSeen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1791805286255
+        lastVisitTime: 1792861160991
         lcm-eat-seen: true
         sortingDropdownKey: "championMastery"
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-chromas:
     data:
-        groupingDropdownKey: "myCollection"
-        lastVisitTime: 1791805286256
-        sortingDropdownKey: "acquisitionDate"
-        unavailableFilter: false
-        unownedFilter: false
+        groupingDropdownKey: "all"
+        lastVisitTime: 1792761733000
+        sortingDropdownKey: "releaseDate"
+        unavailableFilter: true
+        unownedFilter: true
     schemaVersion: 2
 lol-collection-finishers:
     data:
@@ -449,7 +446,7 @@ lol-collection-finishers:
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1790502129067
+        lastVisitTime: 1792797622133
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -464,11 +461,11 @@ lol-collection-wards:
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1790502669394
+        lastVisitTime: 1792761546524
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1790502586385
+        lastVisitTime: 1792861141960
     schemaVersion: 1
 lol-customizer-titles:
     data:
@@ -930,6 +927,20 @@ lol-info-hub:
         lastUpdateTime: "2025-11-05T19:15:18.000Z"
         latestViewedVersion: "15.22"
     schemaVersion: 1
+lol-kiwi-hub:
+    data:
+        Group1Objective1Completed: true
+        Group1Objective1InProgress: true
+        Group1Objective2InProgress: true
+        Group1Objective3T2Completed: true
+        Group1Objective4T2Completed: true
+        Group1Objective4T2InProgress: true
+        Group2Objective2InProgress: true
+        Group2Objective4T2InProgress: true
+        HasViewedGroup2Page: true
+        hasSeenCompletionVignetteGroup1: true
+        lastSeenRankOnKiwiHub: "C\xF3 Ti\u1EBFng"
+    schemaVersion: 1
 lol-leagues:
     data:
         FINAL_RANK_ONE_OF_SEASON-RANKED_FLEX_SR: 22
@@ -1012,10 +1023,10 @@ lol-premade-voice:
     data:
         autoJoin: true
         autoJoinTeamVoice: false
-        inputMode: "voiceActivity"
+        inputMode: "pushToTalk"
         muteOnConnect: false
-        pushToTalkKey: "[,],[<Unbound>]"
-        pushToTalkTeamKey: "[0]"
+        pushToTalkKey: ""
+        pushToTalkTeamKey: ""
         showFirstExperienceInGame: true
         showFirstExperienceInLCU: false
         teamVoiceEnabled: false
@@ -1111,7 +1122,7 @@ lol-quick-play:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1790595586096
+        lastVisitTime: 1792861146924
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
@@ -1127,7 +1138,7 @@ lol-tft:
         gamesPlayed: 100
         gamesWon: 7
         iconOverride: "companion"
-        lastTFTBPSeen: "6da31f22-1770-40bd-9fa3-a2c0563e6b2b"
+        lastTFTBPSeen: "412e58b0-0e92-4471-84e2-589e0c81329b"
         lastTftGameQueueId: 1220
         lastTftSetNameSeen: "TFTSet18"
         lastUnlockCount: 6
@@ -1151,6 +1162,7 @@ lol-tutorial:
         Map12_ARAM_TutorialSeen: true
         Map12_KIWI_16_03_TutorialSeen: true
         Map12_KIWI_16_12_TutorialSeen: true
+        Map12_KIWI_16_21_TutorialSeen: true
         Map12_KIWI_JADE_TutorialSeen: true
         Map12_KIWI_TutorialSeen: true
         Map22_TFT_TFTTURBO_TutorialSeen: true
@@ -1273,13 +1285,13 @@ ranked-eos-notification-22-RANKED_SOLO_5x5-SECOND_WARNING:
     schemaVersion: 1
 shoppefront_JADE_BP:
     data:
-        lastViewed: "2026-10-12T13:45:01.723Z"
+        lastViewed: "2026-10-25T10:22:09.608Z"
     schemaVersion: 1
 shoppefront_MYTHIC_SHOP:
     data:
-        lastViewed: "2026-10-09T11:34:13.163Z"
+        lastViewed: "2026-10-23T13:19:35.871Z"
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2026-10-14T12:01:43.339Z"
+        lastViewedTimestamp: "2026-10-18T01:07:10.886Z"
     schemaVersion: 1

@@ -49,12 +49,28 @@
               "value": "0.5667"
             },
             {
+              "name": "PanelHeightRatio",
+              "value": "1.0000"
+            },
+            {
+              "name": "PanelWidthRatio",
+              "value": "1.0000"
+            },
+            {
               "name": "ReplayNativeOffsetX",
               "value": "0.0589"
             },
             {
               "name": "ReplayNativeOffsetY",
               "value": "0.5083"
+            },
+            {
+              "name": "ReplayPanelHeightRatio",
+              "value": "1.0000"
+            },
+            {
+              "name": "ReplayPanelWidthRatio",
+              "value": "1.0000"
             },
             {
               "name": "Transparency",
@@ -253,7 +269,7 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.21.829.8620"
+              "value": "16.22.834.8910"
             },
             {
               "name": "ClampCastTargetLocationWithinMaxRange",
@@ -826,6 +842,14 @@
             },
             {
               "name": "PingsVolume",
+              "value": "1.0000"
+            },
+            {
+              "name": "PlayerVoiceMute",
+              "value": "0"
+            },
+            {
+              "name": "PlayerVoiceVolume",
               "value": "1.0000"
             },
             {
@@ -3495,6 +3519,10 @@
             {
               "name": "evtPracticeToolTurretInv",
               "value": "[Ctrl][Alt][h],[<Unbound>]"
+            },
+            {
+              "name": "evtPushToTalkTeam",
+              "value": "[0]"
             }
           ]
         }

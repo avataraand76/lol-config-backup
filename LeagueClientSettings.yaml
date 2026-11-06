@@ -4,7 +4,7 @@ install:
         type: "crashpad"
     game-settings:
         accountId: 3147751469622464
-        modified: true
+        modified: false
         timestamp: 0
     gameflow-patcher-lock: null
     gameflow-process-info: null
@@ -14,7 +14,7 @@ install:
         region: "VN2"
     lcu-settings:
         accountId: 3147751469622464
-        modified: false
+        modified: true
         timestamp: 0
     patcher:
         client_migrated: true
@@ -33,8 +33,8 @@ install:
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 1074
-        success-count: 1074
+        seq-success-count: 1095
+        success-count: 1095
     rso-auth:
         install-identifier: "c7cb6be6aeee4b448f9f050538261b7c"
     tft-settings:

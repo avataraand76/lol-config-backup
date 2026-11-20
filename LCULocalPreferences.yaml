@@ -25,11 +25,11 @@ lol-clash:
         - "registration_open_tournament_241501"
         - "registration_open_tournament_241581"
         - "registration_open_tournament_241502"
-        - "registration_open_tournament_241521"
         - "registration_open_tournament_241802"
         - "lock_in_open_tournament_241702_phase_241702"
-        - "lock_in_open_tournament_241582_phase_241582"
+        - "registration_open_tournament_241521"
         - "lock_in_open_tournament_241502_phase_241502"
+        - "lock_in_open_tournament_241582_phase_241582"
         - "registration_open_tournament_241522"
         - "registration_open_tournament_241801"
         - "registration_open_tournament_241541"
@@ -55,6 +55,7 @@ lol-clash:
         - "registration_open_tournament_241682"
         - "lock_in_open_tournament_241802_phase_241802"
         - "registration_open_tournament_241862"
+        - "registration_open_tournament_241921"
         - "registration_open_tournament_241701"
         - "registration_open_tournament_241761"
         - "lock_in_open_tournament_241701_phase_241701"
@@ -88,7 +89,7 @@ lol-premade-voice:
         inputVolume: 100
         noiseSuppressionEnabled: true
         vadAuto: true
-        vadSensitivity: 65
+        vadSensitivity: 50
     schemaVersion: 1
 lol-replays:
     data:
@@ -99,13 +100,14 @@ lol-replays:
 lol-skins-viewer:
     data:
         completeSetIdMap: null
-        lastSessionId: "eyJraWQiOiJyc28tcHJvZC0yMDI0LTExIiwidHlwIjoiaWRfdG9rZW4rand0IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI3MzYyNDRlYS02MGI0LTUwODAtODcwNi1iOTQ4N2RhMTY1ZDUiLCJjb3VudHJ5Ijoidm5tIiwicGxheWVyX3Bsb2NhbGUiOiJ2bi1WTiIsImFtciI6WyJwYXNzd29yZCIsIm1mYSIsInJzbyJdLCJpc3MiOiJodHRwczovL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MzE0Nzc1MTQ2OTYyMjQ2NCwiY3BpZCI6IlZOMiIsInVpZCI6MjMyNjQ0OTM5LCJwaWQiOiJOQTEiLCJhcGlkIjpudWxsLCJwbG9jIjoidm4tVk4iLCJscCI6ZmFsc2UsInN0YXRlIjoiRU5BQkxFRCIsInVuYW1lIjoiYXZhdGFyYWFuZDc2IiwicHRyaWQiOm51bGx9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJhY2NvdW50X3ZlcmlmaWVkIjp0cnVlLCJhdWQiOiJsb2wiLCJhY3IiOiJ1cm46cmlvdDpicm9uemUiLCJsb2xfcmVnaW9uIjpbeyJjdWlkIjoyMzI2NDQ5MzksImNwaWQiOiJOQTEiLCJ1aWQiOjIzMjY0NDkzOSwicGlkIjoiTkExIiwibHAiOmZhbHNlLCJhY3RpdmUiOmZhbHNlfSx7ImN1aWQiOjMxNDc3NTE0Njk2MjI0NjQsImNwaWQiOiJWTjIiLCJ1aWQiOjIzMjY0NDkzOSwicGlkIjoiTkExIiwibHAiOmZhbHNlLCJhY3RpdmUiOnRydWV9XSwicGxheWVyX2xvY2FsZSI6InZuLVZOIiwiZXhwIjoxNzkwNDc5MDM1LCJpYXQiOjE3OTA0NzU0MzUsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTcOsVuG6sW5UaOG6r25Yw6FYw611IiwidGFnX2xpbmUiOiJhdmEiLCJzdGF0ZSI6IkVOQUJMRUQifSwibG9naW5fY291bnRyeSI6InZubSJ9.ZSe6zE4ddr9DIQ3EE46tDx3P8YwI1RQkXsebdSoIQjMEFCnH7o6GScRvs229V-EY5J3a_4u3wLzMULaCsihTjIV2mVO1hZXLgjVc3dzARIxlNwQuYzj2PtiTVHhktAnc4sn0_zxjTPSN7MxFHUITK-mlOkTf2OUaDl7fgmCoccdpbZIam-sosPWDerxQQaa73wBrunjczd7A4fYztn-o7qepvUV7tW8CkUOsbgfEBBkfTh8q7XYUZYAzMPYnQ2M0ZA1ypcSr2XMlii1CoRLX9ockTf-hM9C8DLqC5ntKT8CxDKRWi-RvlwWLXVKJPTxZoLcHSEW8sCchPmONkLsg3A"
-        lastVisitTime: 1789815846295
+        lastSessionId: "eyJraWQiOiJyc28tcHJvZC0yMDI0LTExIiwidHlwIjoiaWRfdG9rZW4rand0IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI3MzYyNDRlYS02MGI0LTUwODAtODcwNi1iOTQ4N2RhMTY1ZDUiLCJjb3VudHJ5Ijoidm5tIiwicGxheWVyX3Bsb2NhbGUiOiJ2bi1WTiIsImFtciI6WyJwYXNzd29yZCIsIm1mYSIsInJzbyJdLCJpc3MiOiJodHRwczovL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MzE0Nzc1MTQ2OTYyMjQ2NCwiY3BpZCI6IlZOMiIsInVpZCI6MjMyNjQ0OTM5LCJwaWQiOiJOQTEiLCJhcGlkIjpudWxsLCJwbG9jIjoidm4tVk4iLCJscCI6ZmFsc2UsInN0YXRlIjoiRU5BQkxFRCIsInVuYW1lIjoiYXZhdGFyYWFuZDc2IiwicHRyaWQiOm51bGx9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJhY2NvdW50X3ZlcmlmaWVkIjp0cnVlLCJhdWQiOiJsb2wiLCJhY3IiOiJ1cm46cmlvdDpicm9uemUiLCJsb2xfcmVnaW9uIjpbeyJjdWlkIjoyMzI2NDQ5MzksImNwaWQiOiJOQTEiLCJ1aWQiOjIzMjY0NDkzOSwicGlkIjoiTkExIiwibHAiOmZhbHNlLCJhY3RpdmUiOmZhbHNlfSx7ImN1aWQiOjMxNDc3NTE0Njk2MjI0NjQsImNwaWQiOiJWTjIiLCJ1aWQiOjIzMjY0NDkzOSwicGlkIjoiTkExIiwibHAiOmZhbHNlLCJhY3RpdmUiOnRydWV9XSwicGxheWVyX2xvY2FsZSI6InZuLVZOIiwiZXhwIjoxNzk0OTE2NzUzLCJpYXQiOjE3OTQ5MTMxNTMsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTcOsVuG6sW5UaOG6r25Yw6FYw611IiwidGFnX2xpbmUiOiJhdmEiLCJzdGF0ZSI6IkVOQUJMRUQifSwibG9naW5fY291bnRyeSI6InZubSJ9.tgBg-qQ0Fc8_LLnBhdzEtN1ayiYmaQH_KWrJmeWBRvxlFhmmdT7NhlWLPMpspkJYLvZn5pWRCUfGMXqLx8pjn9yKZSU-XO-JwEg2v-ZHpVKiMAj2OhAd0069p0X-7AM57vQ88WiKPs-iY5Np15Lj6dBG_JZcMd_32ChRyejCKWgMsIlD7WYFmhIusRyL63V58W69_T5gL8FGNugtDAzoFGm85GhUQlL-AHf6RuXr_lxR1F0WTiTaXHr4mgBrtQ1xAYbGyW3osdVUtPnHZjTvI9-mMFYEo3SsQNYZfkJikDvnAJ8P2bC1ntckNUhOZ_aSpsdsAJLcRPfZ5NXh7pGiOg"
+        lastVisitTime: 1794748152717
         visitedSkinList: []
     schemaVersion: 1
 lol-user-experience:
     data:
         abilityPreviewsDisabled: true
+        closeLeagueClientDuringGame: false
         hasBeenPromptedForPotatoMode: true
         hasSeenBridgeTftTooltip: true
         lastKnownMachineSpec: 5

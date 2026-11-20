@@ -4,8 +4,8 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        lastPatchNotesViewed: "16.22"
-        tabsViewed: "{\"26-20-ac-worlds-schedule\":true,\"26-21-ac-ftw\":true,\"26-20-ac-worlds-pickems\":true,\"26-22-ac-kda-skins\":true,\"26-22-ac-mv-akali\":true,\"26-22-ac-mv-evelynn\":true,\"26-22-ac-thematic\":true,\"26-22-ac-kda-ep\":true}"
+        lastPatchNotesViewed: "16.23"
+        tabsViewed: "{\"26-22-ac-mv-akali\":true,\"26-22-ac-mv-evelynn\":true,\"26-22-ac-thematic\":true,\"26-22-ac-chili-worlds\":true,\"26-22-ac-worlds-sales\":true,\"26-22-ac-dev-update\":true,\"26-23-ac-clash\":true,\"26-22-ac-kda-skins\":true,\"26-23-ac-mv-sona\":true,\"26-23-ac-cafecuties-skins\":true,\"26-23-ac-winter\":true}"
         thematicTimelineViewed: "16.9"
     schemaVersion: 1
 career-stats-settings:
@@ -18,7 +18,7 @@ champ-select:
         skins:
             1: 1060
             10: 10067
-            101: 101012
+            101: 101003
             102: 102004
             103: 103086
             104: 104045
@@ -26,14 +26,14 @@ champ-select:
             106: 106006
             107: 107053
             11: 11089
-            110: 110007
+            110: 110004
             111: 111009
             112: 112000
             113: 113016
             114: 114022
             115: 115004
             117: 117014
-            119: 119004
+            119: 119006
             12: 12010
             120: 120004
             121: 121001
@@ -43,11 +43,11 @@ champ-select:
             13: 13008
             131: 131077
             133: 133005
-            134: 134034
+            134: 134004
             136: 136038
             14: 14005
             141: 141020
-            142: 142043
+            142: 142033
             143: 143004
             145: 145027
             147: 147050
@@ -61,14 +61,14 @@ champ-select:
             164: 164021
             166: 166010
             17: 17031
-            18: 18003
+            18: 18010
             19: 19056
             2: 2004
             20: 20004
             200: 200000
             201: 201010
-            202: 202005
-            203: 203012
+            202: 202004
+            203: 203002
             21: 21050
             22: 22008
             221: 221029
@@ -77,14 +77,14 @@ champ-select:
             23: 23002
             233: 233000
             234: 234030
-            235: 235010
-            236: 236006
+            235: 235001
+            236: 236008
             238: 238038
             24: 24043
             240: 240001
             245: 245057
             246: 246021
-            25: 25081
+            25: 25070
             254: 254048
             26: 26000
             266: 266033
@@ -92,8 +92,8 @@ champ-select:
             268: 268002
             27: 27009
             28: 28024
-            29: 29055
-            3: 3040
+            29: 29027
+            3: 3050
             30: 30009
             31: 31032
             32: 32025
@@ -108,25 +108,25 @@ champ-select:
             39: 39045
             4: 4007
             40: 40005
-            41: 41014
+            41: 41005
             412: 412001
-            42: 42018
+            42: 42036
             420: 420002
             421: 421002
             427: 427002
-            429: 429001
+            429: 429000
             43: 43026
             432: 432008
-            44: 44004
+            44: 44002
             45: 45067
             48: 48001
             497: 497018
             498: 498003
             5: 5020
             50: 50033
-            51: 51048
+            51: 51053
             516: 516011
-            517: 517046
+            517: 517013
             518: 518049
             523: 523001
             526: 526010
@@ -136,7 +136,7 @@ champ-select:
             555: 555044
             56: 56005
             57: 57033
-            58: 58001
+            58: 58003
             59: 59054
             6: 6032
             60: 60034
@@ -157,14 +157,18 @@ champ-select:
             60025: 60025301
             60028: 60028301
             60029: 60029301
+            60031: 60031000
             60036: 60036301
             60037: 60037000
             60039: 60039301
             60041: 60041301
-            60042: 60042018
+            60042: 60042005
+            60043: 60043301
+            60050: 60050000
             60051: 60051301
             60053: 60053000
             60059: 60059006
+            60060: 60060000
             60064: 60064011
             60067: 60067000
             60072: 60072301
@@ -192,32 +196,32 @@ champ-select:
             62: 62007
             63: 63033
             64: 64004
-            67: 67064
+            67: 67011
             68: 68003
             69: 69038
             7: 7059
             711: 711001
-            72: 72005
+            72: 72014
             74: 74006
             75: 75025
             76: 76007
             77: 77003
             777: 777000
             78: 78002
-            79: 79010
+            79: 79008
             799: 799000
             8: 8005
             80: 80006
             800: 800000
             804: 804000
             805: 805000
-            81: 81009
+            81: 81019
             82: 82054
             83: 83040
-            84: 84013
+            84: 84103
             85: 85008
             86: 86013
-            875: 875010
+            875: 875001
             876: 876000
             887: 887039
             888: 888031
@@ -319,7 +323,7 @@ clash-tutorial:
 cosmetics-last-viewed-date:
     data:
         typeToLastOpenedDate:
-            COMPANION: 1791124852
+            COMPANION: 1794065330
             TFT_DAMAGE_SKIN: 1751292037
             TFT_MAP_SKIN: 1751292024
     schemaVersion: 1
@@ -342,7 +346,8 @@ custom-spell-selections:
     schemaVersion: 0
 emotes:
     data:
-        newEmotes: []
+        newEmotes:
+        - 5193
     schemaVersion: 1
 event-hub:
     data:
@@ -350,11 +355,11 @@ event-hub:
             7e9e169d-883b-4fe6-9fb9-d0c2cb8b86ac:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-11-06T12:13:00.082Z"
+                lastTimeSeen: "2026-11-19T13:12:49.319Z"
             8a89ed01-d496-5d10-a285-1a5ad5dd7811:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2026-11-05T15:42:31.489Z"
+                lastTimeSeen: "2026-11-19T12:15:45.983Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -450,15 +455,15 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1793963911297
+        lastVisitTime: 1795089535941
         lcm-eat-seen: true
-        sortingDropdownKey: "championMastery"
+        sortingDropdownKey: "undefined"
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-chromas:
     data:
         groupingDropdownKey: "all"
-        lastVisitTime: 1793888556088
+        lastVisitTime: 1794748152717
         sortingDropdownKey: "releaseDate"
         unavailableFilter: true
         unownedFilter: true
@@ -466,42 +471,42 @@ lol-collection-chromas:
 lol-collection-finishers:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1793888556088
+        lastVisitTime: 1794748152717
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
-        groupingDropdownKey: "all"
-        lastVisitTime: 1793888556088
-        sortingDropdownKey: "releaseDate"
-        unavailableFilter: true
-        unownedFilter: true
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1795089535941
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
     schemaVersion: 2
 lol-collection-wards:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1793888556088
+        lastVisitTime: 1794748152717
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1793794960975
+        lastVisitTime: 1794913579202
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1793804615985
+        lastVisitTime: 1794913617616
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1793794956880
+        lastVisitTime: 1794913621119
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1787928956570
+        lastVisitTime: 1794913578668
     schemaVersion: 1
 lol-general:
     data:
@@ -976,13 +981,36 @@ lol-kiwi-hub:
         Group3Objective2InProgress: true
         Group3Objective3T2Completed: true
         Group3Objective4T2Completed: true
+        Group4Objective1Completed: true
+        Group4Objective1InProgress: true
+        Group4Objective2InProgress: true
+        Group4Objective3InProgress: true
+        Group4Objective3T2Completed: true
+        Group4Objective3T2InProgress: true
+        Group4Objective4InProgress: true
+        Group4Objective4T2Completed: true
+        Group4Objective4T2InProgress: true
         Group5Locked: true
+        Group5Objective1Completed: true
+        Group5Objective1InProgress: true
+        Group5Objective2Completed: true
+        Group5Objective2InProgress: true
+        Group5Objective3InProgress: true
+        Group5Objective3T2Completed: true
+        Group5Objective3T2InProgress: true
+        Group5Objective4InProgress: true
+        Group5Objective4T2Completed: true
+        Group5Objective4T2InProgress: true
         HasViewedGroup2Page: true
         HasViewedGroup3Page: true
+        HasViewedGroup4Page: true
+        HasViewedGroup5Page: true
         hasSeenCompletionVignetteGroup1: true
         hasSeenCompletionVignetteGroup2: true
         hasSeenCompletionVignetteGroup3: true
-        lastSeenRankOnKiwiHub: "N\u1ED5i Danh"
+        hasSeenCompletionVignetteGroup4: true
+        hasSeenCompletionVignetteGroup5: true
+        lastSeenRankOnKiwiHub: "Huy\u1EC1n Tho\u1EA1i"
     schemaVersion: 1
 lol-leagues:
     data:
@@ -1068,13 +1096,14 @@ lol-premade-voice:
         autoJoinTeamVoice: false
         inputMode: "voiceActivity"
         muteOnConnect: false
-        pushToTalkKey: "[,],[<Unbound>]"
-        pushToTalkTeamKey: "[0]"
+        pushToTalkKey: "[,],[c]"
+        pushToTalkTeamKey: "[.],[c]"
         showFirstExperienceInGame: true
         showFirstExperienceInLCU: false
         teamVoiceEnabled: false
         voiceFontEnabledForParty: false
         voiceFontEnabledForTeam: false
+        voiceFontId: ""
     schemaVersion: 1
 lol-profiles:
     data:
@@ -1165,7 +1194,7 @@ lol-quick-play:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1793893347288
+        lastVisitTime: 1794913885759
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
@@ -1331,13 +1360,13 @@ ranked-eos-notification-22-RANKED_SOLO_5x5-SECOND_WARNING:
     schemaVersion: 1
 shoppefront_JADE_BP:
     data:
-        lastViewed: "2026-11-06T11:33:08.839Z"
+        lastViewed: "2026-11-20T13:13:27.719Z"
     schemaVersion: 1
 shoppefront_MYTHIC_SHOP:
     data:
-        lastViewed: "2026-11-06T11:22:35.437Z"
+        lastViewed: "2026-11-17T11:00:18.131Z"
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2026-10-18T01:07:10.886Z"
+        lastViewedTimestamp: "2026-11-09T11:33:58.366Z"
     schemaVersion: 1

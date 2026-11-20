@@ -269,7 +269,7 @@
             },
             {
               "name": "CfgVersion",
-              "value": "16.22.834.8910"
+              "value": "16.23.840.6595"
             },
             {
               "name": "ClampCastTargetLocationWithinMaxRange",
@@ -813,6 +813,38 @@
               "value": "0.5000"
             },
             {
+              "name": "AroundGameMasterMute",
+              "value": "0"
+            },
+            {
+              "name": "AroundGameMasterVolume",
+              "value": "1.0000"
+            },
+            {
+              "name": "AroundGameMusicMute",
+              "value": "0"
+            },
+            {
+              "name": "AroundGameMusicVolume",
+              "value": "0.5000"
+            },
+            {
+              "name": "AroundGameSfxMute",
+              "value": "0"
+            },
+            {
+              "name": "AroundGameSfxVolume",
+              "value": "1.0000"
+            },
+            {
+              "name": "AroundGameVoiceMute",
+              "value": "0"
+            },
+            {
+              "name": "AroundGameVoiceVolume",
+              "value": "1.0000"
+            },
+            {
               "name": "MasterMute",
               "value": "0"
             },
@@ -1332,11 +1364,11 @@
             },
             {
               "name": "evtPushToTalk",
-              "value": "[,],[<Unbound>]"
+              "value": "[,],[c]"
             },
             {
               "name": "evtPushToTalkTeam",
-              "value": "[0]"
+              "value": "[.],[c]"
             },
             {
               "name": "evtRadialEmoteInstantOpen",
@@ -1928,7 +1960,7 @@
             },
             {
               "name": "evtToggleVC",
-              "value": "[Ctrl][v],[<Unbound>]"
+              "value": "[F9],[Ctrl][v]"
             },
             {
               "name": "evtUseItem1",
@@ -2052,6 +2084,19 @@
         },
         {
           "name": "GameEvents.Nautilus",
+          "settings": [
+            {
+              "name": "evtCastSpell1",
+              "value": "[<Unbound>]"
+            },
+            {
+              "name": "evtSmartCastWithIndicatorSpell1",
+              "value": "[q]"
+            }
+          ]
+        },
+        {
+          "name": "GameEvents.Nilah",
           "settings": [
             {
               "name": "evtCastSpell1",
@@ -3521,8 +3566,16 @@
               "value": "[Ctrl][Alt][h],[<Unbound>]"
             },
             {
+              "name": "evtPushToTalk",
+              "value": "[,],[c]"
+            },
+            {
               "name": "evtPushToTalkTeam",
-              "value": "[0]"
+              "value": "[.],[c]"
+            },
+            {
+              "name": "evtShowVoicePanel",
+              "value": "[m],[<Unbound>]"
             }
           ]
         }

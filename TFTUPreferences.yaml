@@ -277,9 +277,13 @@
 	"bHasStartedFirstGame": true,
 	"previewedContentIds": [],
 	"seenBannerIds": [
-		"7b2d47ab-a6bf-41e0-97df-96828ee869bb"
+		"7b2d47ab-a6bf-41e0-97df-96828ee869bb",
+		"405d4433-5bec-45df-8775-d1667c336c1b",
+		"fa9b4b83-507d-4be5-a415-d493d27d113e"
 	],
-	"seenPromoBannerIds": [],
+	"seenPromoBannerIds": [
+		"405d4433-5bec-45df-8775-d1667c336c1b"
+	],
 	"seenStoreContentHashes":
 	{
 		"Mythic": 1520314866,
